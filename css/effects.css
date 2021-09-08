@@ -1,0 +1,87 @@
+/* .web-size:hover {
+    transform: scale(1.23);
+    display: inline;
+    filter: blur(2px);
+    overflow: visible!important;
+} */
+
+
+/* .web-size {
+    transition: .4s;
+} */
+
+
+/* .web-size {
+    overflow: visible;
+} */
+
+
+/* For wrapper is another div and item is another */
+
+.web-size {
+    display: block;
+    width: 100%;
+    height: auto;
+    transition: 0.5s;
+    overflow: hidden;
+}
+
+.card-bg {
+    position: relative;
+    max-width: auto;
+}
+
+.card-bg-1 {
+    position: relative;
+    max-width: auto;
+}
+
+.card-bg:hover .web-size {
+    filter: blur(1px);
+}
+
+.card-bg-1:hover .web-size {
+    filter: blur(1px);
+}
+
+.overlay {
+    position: absolute;
+    bottom: 0;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5);
+    /* Black see-through */
+    color: #f1f1f1;
+    width: 100%;
+    transition: .5s ease;
+    opacity: 0;
+    color: white;
+    font-size: 20px;
+    padding: 80px;
+    text-align: center;
+    height: 100%;
+}
+
+.overlay-1 {
+    position: absolute;
+    bottom: 0;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5);
+    /* Black see-through */
+    color: #f1f1f1;
+    width: 100%;
+    transition: .5s ease;
+    opacity: 0;
+    color: white;
+    font-size: 20px;
+    padding: 100px;
+    text-align: center;
+    height: 100%;
+}
+
+.card-bg:hover .overlay {
+    opacity: 1;
+}
+
+.card-bg-1:hover .overlay-1 {
+    opacity: 1;
+}

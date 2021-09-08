@@ -1,0 +1,312 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+@font-face {
+    source: url(/fonts/Caster.ttf);
+    font-family: Caster;
+}
+
+body {
+    background: black;
+    margin: 0;
+    padding: 0;
+    font-family: 'IBM Plex Sans Devanagari', sans-serif;
+}
+
+
+/* .body::-webkit-scrollbar {
+    display: none;
+}
+
+html {
+    overflow: scroll;
+    overflow-x: hidden;
+}
+
+::-webkit-scrollbar {
+    width: 0;
+    background: transparent;
+} */
+
+.text-name {
+    font-family: Caster!important;
+    font-size: 50px;
+}
+
+.logo-image {
+    width: 50px;
+    border: 1px solid white;
+    border-radius: 50%;
+}
+
+.dropbtn {
+    background-color: black;
+    box-shadow: none!important;
+    color: white
+}
+
+.dropdown {
+    position: relative;
+    display: inline-flex;
+    border: none !important;
+}
+
+.dropdown-content {
+    display: none;
+    position: relative;
+    background-color: #f1f1f1;
+    min-width: 160px;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.dropdown-content a:hover {
+    background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.special-btn {
+    color: rgb(147, 157, 158);
+    border: 1px solid black;
+}
+
+.navbar {
+    background-color: black!important;
+}
+
+.text-paragraph {
+    font-size: 20px;
+}
+
+.first-section {
+    height: fit-content!important;
+    margin-bottom: 200px;
+}
+
+#homepage2 {
+    height: min-content;
+    margin-bottom: 0!important;
+}
+
+#homepage1 {
+    height: fit-content;
+}
+
+#homepage3 {
+    height: fit-content;
+}
+
+#homepage4 {
+    height: fit-content;
+}
+
+#homepage5 {
+    height: fit-content;
+}
+
+.learning {
+    height: fit-content;
+}
+
+.about {
+    height: fit-content;
+}
+
+.reviews {
+    height: fit-content;
+}
+
+.bg-dark {
+    height: fit-content;
+}
+
+.btn-hire {
+    padding-inline: 30px;
+    border: 2px solid orange;
+    padding-block: 10px;
+    font-size: 20px;
+    font-weight: 800;
+    /* letter-spacing: 1px; */
+    background: -webkit-linear-gradient(rgb(253, 251, 95), rgba(255, 78, 78, 0.856));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: 0.4s;
+}
+
+.btn-hire:hover {
+    border: 2px solid orange;
+    background: -webkit-linear-gradient(rgb(216, 151, 31), rgba(255, 245, 98, 0.856));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    border-radius: 20px;
+    transition: 0.7s;
+}
+
+.title {
+    background: -webkit-linear-gradient(rgb(253, 251, 95), rgba(255, 78, 78, 0.856));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 35px;
+    margin-bottom: 50px;
+    font-family: 'Staatliches', cursive;
+    letter-spacing: 4px;
+}
+
+
+/* } used for heading of my skills like video editing and 5 others*/
+
+.title-capital {
+    background: -webkit-linear-gradient(rgb(253, 251, 95), rgba(255, 78, 78, 0.856));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 50px;
+    letter-spacing: 3px;
+}
+
+
+/* } used for A & M two words in my name title */
+
+.title-learning {
+    background: -webkit-linear-gradient( rgba(255, 78, 78, 0.856), rgb(253, 251, 95));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 35px;
+    margin-bottom: 100px;
+    letter-spacing: 1px;
+}
+
+.btn-read {
+    padding-inline: 30px;
+    border: 2px solid rgb(95, 95, 95);
+    padding-block: 10px;
+    font-size: 20px;
+    font-weight: 500;
+    /* letter-spacing: 1px; */
+    background: -webkit-linear-gradient(rgb(58, 57, 56), rgb(0, 0, 0));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: 0.4s;
+}
+
+.btn-read:hover {
+    border: 2px solid orange;
+    background: -webkit-linear-gradient(rgb(253, 171, 95), rgb(245, 73, 73));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    border-radius: 20px;
+    transition: 0.5s;
+}
+
+.card-img {
+    width: 80%;
+    border: 8px solid rgb(253, 207, 163);
+    border-radius: 50%;
+    /* border-image: linear-gradient(45deg, rgb(253, 171, 95), rgb(246, 58, 58)) 2; */
+}
+
+footer {
+    height: fit-content;
+}
+
+.footer-div {
+    margin: auto!important;
+    margin-top: 200px !important;
+}
+
+.copyright {
+    margin-top: 180px;
+    color: rgb(182, 182, 182)!important;
+}
+
+#main-title {
+    font-family: 'Staatliches', cursive;
+    letter-spacing: 4px;
+}
+
+.text-about {
+    font-family: 'Staatliches', cursive;
+}
+
+
+/* homepage1*/
+
+.loop-video {
+    width: 1080px;
+    height: 700px;
+}
+
+
+/* homepage2 */
+
+.video-icon {
+    width: 70px;
+}
+
+.yt-demo {
+    width: 560px;
+    height: 315px;
+}
+
+
+/* homepage3 */
+
+.web-icon {
+    width: 70px;
+}
+
+.web-size {
+    width: 560px;
+}
+
+
+/* homepage5 */
+
+.left-rightIcon {
+    width: 80px;
+}
+
+.learning-card {
+    width: 288px;
+}
+
+
+/* homepage6 */
+
+.face-icon {
+    width: 300px;
+}
+
+.circle-about {
+    width: 50px;
+}
+
+
+/* homepage7(review) */
+
+.hide-240-review {
+    visibility: hidden;
+}
+
+
+/* homepage8(footer) */
+
+.follow-btn {
+    width: 40px;
+    margin-right: 20px;
+}
+
+
+/* media query section start >>>> */
+
+
+/* first section start >>> */

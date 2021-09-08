@@ -1,0 +1,4322 @@
+@media (min-width: 0px) and (max-width: 200.98px) {
+    .first-section {
+        margin-bottom: 40px;
+    }
+    /* homepage1 section start >>> */
+    /* navbar fixing */
+    .nav-text {
+        display: none;
+    }
+    .title-capital {
+        font-size: 25px;
+    }
+    #main-title {
+        letter-spacing: 2px;
+    }
+    .loop-video {
+        display: none;
+    }
+    .text-name {
+        font-size: 22px;
+        margin-top: 40px;
+        margin-right: 15px;
+    }
+    .hide-sm-device {
+        display: none;
+    }
+    .text-paragraph {
+        font-size: 13px;
+    }
+    .btn-hire {
+        font-size: 12px;
+        letter-spacing: 0.5px;
+        font-weight: 600;
+        padding-inline: 17px;
+        padding-block: 5px;
+    }
+    .logo-image {
+        width: 30px;
+    }
+    /* homepage1 section & navbar end >>> */
+    /* ------------------------ */
+    /* homepage2 section start >>> */
+    #video-title {
+        font-size: 18px;
+        letter-spacing: 2px;
+    }
+    .video-icon {
+        width: 30px;
+    }
+    #hide-video {
+        display: none;
+    }
+    .yt-demo {
+        width: 150px;
+        height: 84.38px;
+        margin-bottom: 20px;
+    }
+    /* homepage2 section end >>> */
+    /* ---------------------- */
+    /* homepage3 section start >>> */
+    #web-title {
+        font-size: 19px;
+        letter-spacing: 2px;
+    }
+    .web-icon {
+        width: 35px;
+        letter-spacing: 0.4px;
+    }
+    .web-size {
+        width: 145px;
+    }
+    #hide-web {
+        display: none;
+    }
+    #homepage3 {
+        height: fit-content;
+    }
+    /* homepage3 section End>>> */
+    /* ---------------------- */
+    /* homepage4 section start >>> */
+    #graphics-title {
+        font-size: 19px;
+        letter-spacing: 2px;
+    }
+    /* homepage4 section End>>> */
+    /* ---------------------- */
+    /* homepage5 section start >>> */
+    .title-learning {
+        font-size: 16px;
+        margin-bottom: 50px;
+        letter-spacing: 1.5px!important;
+    }
+    .left-rightIcon {
+        width: 30px;
+    }
+    .learning-card {
+        width: 145px;
+        margin-bottom: 10px;
+    }
+    #description {
+        font-size: 10px;
+        display: none;
+    }
+    .btn-read {
+        padding-inline: 10px;
+        border: 2px solid rgb(95, 95, 95);
+        padding-block: 5px;
+        font-size: 15px;
+    }
+    /* homepage5 section End>>> */
+    /* ---------------------- */
+    /* homepage6 section start >>> */
+    .face-icon {
+        width: 150px;
+    }
+    .h2-about {
+        font-size: 20px;
+        letter-spacing: 2.5px;
+        font-family: 'Staatliches', cursive;
+    }
+    .h3-about {
+        font-size: 15px;
+    }
+    .paragraph-about {
+        font-size: 10px;
+    }
+    .circle-about {
+        width: 20px;
+    }
+    .info-about {
+        font-size: 13px;
+        margin-bottom: 20px;
+        text-align: center!important;
+    }
+    /* homepage6 section End>>> */
+    /* ---------------------- */
+    /* homepage7 (reviews) section start >>> */
+    .hide-web {
+        display: none;
+    }
+    .card-review {
+        width: 10rem!important;
+    }
+    /* homepage7 section End>>> */
+    /* ---------------------- */
+    /* homepage8 (footer) section start >>> */
+    .h4-footer {
+        font-size: 20px;
+        margin: auto;
+    }
+    .paragraph-footer {
+        font-size: 13px;
+    }
+    .footer-div {
+        margin-top: 10px!important;
+    }
+    .follow-footer {
+        font-size: 13px;
+        margin-top: 0px!important;
+    }
+    .follow-btn {
+        width: 30px;
+        margin: auto;
+        padding: 2px;
+    }
+    .copyright {
+        margin: auto;
+        padding: 15px;
+        font-size: 12px;
+    }
+}
+
+@media (min-width: 201px) and (max-width: 241.98px) {
+    .row {
+        overflow: hidden;
+    }
+    .first-section {
+        margin-bottom: 60px;
+    }
+    /* homepage1 section start >>> */
+    /* navbar fixing */
+    .nav-text {
+        display: none;
+    }
+    .loop-video {
+        width: 200px;
+        height: 120px;
+        margin-bottom: 20px!important;
+    }
+    .title-capital {
+        font-size: 30px;
+    }
+    .text-name {
+        font-size: 27px;
+        letter-spacing: 3px;
+    }
+    .btn-hire {
+        font-size: 15px;
+        letter-spacing: 0.7px;
+        font-weight: 600;
+        padding-inline: 18px;
+        padding-block: 6px;
+    }
+    .text-paragraph {
+        font-size: 14px;
+    }
+    /* homepage1 section & navbar end >>> */
+    /* ------------------------ */
+    /* homepage2 section start >>> */
+    #video-title {
+        font-size: 22px;
+        margin-bottom: 10px;
+        letter-spacing: 2px;
+    }
+    .video-icon {
+        width: 40px;
+    }
+    .yt-demo {
+        width: 192px;
+        height: 108px;
+        margin-bottom: 20px;
+    }
+    #homepage2 {
+        height: min-content;
+        margin-bottom: -130px!important;
+    }
+    .hide-240 {
+        display: none;
+    }
+    /* homepage2 section end >>> */
+    /* ---------------------- */
+    /* homepage3 section start >>> */
+    #web-title {
+        font-size: 23px;
+        letter-spacing: 2.5px;
+    }
+    .web-icon {
+        width: 45px;
+        letter-spacing: 0.7px;
+    }
+    .web-size {
+        width: 200px;
+        margin: auto;
+    }
+    #hide-web {
+        display: none;
+    }
+    /* homepage3 section End>>> */
+    /* ---------------------- */
+    /* homepage4 section start >>> */
+    #graphics-title {
+        font-size: 23px;
+        letter-spacing: 2.5px;
+    }
+    #homepage4 {
+        height: 95vh;
+    }
+    /* homepage4 section End>>> */
+    /* ---------------------- */
+    /* homepage5 section start >>> */
+    .title-learning {
+        font-size: 20px;
+        margin-bottom: 50px;
+        letter-spacing: 2px!important;
+    }
+    .left-rightIcon {
+        width: 40px;
+    }
+    .learning-card {
+        width: 200px;
+        margin-bottom: 25px!important;
+    }
+    #description {
+        font-size: 15px;
+        display: none;
+    }
+    .btn-read {
+        padding-inline: 10px;
+        border: 2px solid rgb(95, 95, 95);
+        padding-block: 5px;
+        font-size: 15px;
+    }
+    /* homepage5 section End>>> */
+    /* ---------------------- */
+    /* homepage6 section start >>> */
+    .face-icon {
+        width: 200px;
+    }
+    .h2-about {
+        font-size: 25px;
+        letter-spacing: 3px;
+        font-family: 'Staatliches', cursive;
+    }
+    .h3-about {
+        font-size: 20px;
+    }
+    .paragraph-about {
+        font-size: 15px;
+    }
+    .circle-about {
+        width: 25px;
+    }
+    .info-about {
+        font-size: 16px;
+        margin-bottom: 20px;
+        text-align: center!important;
+    }
+    /* homepage6 section End>>> */
+    /* ---------------------- */
+    /* homepage7 (reviews) section start >>> */
+    .hide-240-review {
+        visibility: visible;
+    }
+    .hide-web {
+        display: none;
+    }
+    .card-review {
+        width: 12rem!important;
+    }
+    /* homepage7 section End>>> */
+    /* ---------------------- */
+    /* homepage8 (footer) section start >>> */
+    .h4-footer {
+        font-size: 23px;
+    }
+    .bg-dark {
+        height: max-content;
+    }
+    .paragraph-footer {
+        font-size: 16px;
+    }
+    .footer-div {
+        margin-top: 15px!important;
+    }
+    .follow-footer {
+        font-size: 16px;
+    }
+    .follow-btn {
+        width: 35px;
+        margin: auto;
+        padding: 2px;
+    }
+    .copyright {
+        margin: auto;
+        padding: 15px;
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width: 241.98px),
+screen and (max-height: 320px) {
+    #homepage1 {
+        height: fit-content;
+    }
+    #homepage2 {
+        height: fit-content;
+    }
+    #homepage3 {
+        height: fit-content;
+    }
+    #homepage4 {
+        height: fit-content;
+    }
+    #homepage5 {
+        height: fit-content;
+    }
+    .about {
+        height: fit-content;
+    }
+    .reviews {
+        height: fit-content;
+    }
+    .card-review {
+        transform: scaleY(0.7);
+    }
+    .bg-dark {
+        height: fit-content;
+    }
+}
+
+@media (min-width: 242px) and (max-width: 325.98px) {
+    .first-section {
+        margin-bottom: 60px;
+    }
+    /* homepage1 section start >>> */
+    /* navbar fixing */
+    .nav-text {
+        font-size: 15px;
+        margin-left: 5px;
+    }
+    .loop-video {
+        width: 241px;
+        height: 135px;
+        margin-bottom: 20px!important;
+    }
+    .title-capital {
+        font-size: 35px;
+    }
+    .text-name {
+        font-size: 30px;
+        letter-spacing: 3px;
+    }
+    .btn-hire {
+        font-size: 16px;
+        letter-spacing: 0.7px;
+        font-weight: 600;
+        padding-inline: 18px;
+        padding-block: 7px;
+    }
+    .text-paragraph {
+        font-size: 15px;
+    }
+    .logo-image {
+        width: 35px;
+    }
+    /* homepage1 section & navbar end >>> */
+    /* ------------------------ */
+    /* homepage2 section start >>> */
+    #video-title {
+        font-size: 25px;
+        margin-bottom: 10px;
+        letter-spacing: 2px;
+    }
+    .video-icon {
+        width: 42px;
+    }
+    .yt-demo {
+        width: 192px;
+        height: 108px;
+        margin-bottom: 20px;
+    }
+    #homepage2 {
+        height: fit-content;
+        margin-bottom: 100px!important;
+    }
+    .hide-240 {
+        display: none;
+    }
+    /* homepage2 section end >>> */
+    /* ---------------------- */
+    /* homepage3 section start >>> */
+    #web-title {
+        font-size: 23px;
+        letter-spacing: 2.5px;
+    }
+    .web-icon {
+        width: 45px;
+        letter-spacing: 0.7px;
+    }
+    .web-size {
+        width: 200px;
+        margin: auto;
+    }
+    #hide-web {
+        display: none;
+    }
+    /* homepage3 section End>>> */
+    /* ---------------------- */
+    /* homepage4 section start >>> */
+    #graphics-title {
+        font-size: 23px;
+        letter-spacing: 2.5px;
+    }
+    #homepage4 {
+        height: 95vh;
+    }
+    /* homepage4 section End>>> */
+    /* ---------------------- */
+    /* homepage5 section start >>> */
+    .title-learning {
+        font-size: 20px;
+        margin-bottom: 50px;
+        letter-spacing: 2px!important;
+    }
+    .left-rightIcon {
+        width: 40px;
+    }
+    .learning-card {
+        width: 200px;
+        margin-bottom: 25px!important;
+    }
+    #description {
+        font-size: 15px;
+        display: none;
+    }
+    .btn-read {
+        padding-inline: 10px;
+        border: 2px solid rgb(95, 95, 95);
+        padding-block: 5px;
+        font-size: 15px;
+    }
+    /* homepage5 section End>>> */
+    /* ---------------------- */
+    /* homepage6 section start >>> */
+    .face-icon {
+        width: 180px;
+    }
+    .row {
+        overflow: hidden!important;
+    }
+    .h2-about {
+        font-size: 25px;
+        letter-spacing: 3px;
+        font-family: 'Staatliches', cursive;
+    }
+    .h3-about {
+        font-size: 20px;
+    }
+    .paragraph-about {
+        font-size: 15px;
+    }
+    .circle-about {
+        width: 25px;
+    }
+    .info-about {
+        font-size: 16px;
+        margin-bottom: 20px;
+        text-align: center!important;
+    }
+    /* homepage6 section End>>> */
+    /* ---------------------- */
+    /* homepage7 (reviews) section start >>> */
+    .hide-240-review {
+        visibility: visible;
+    }
+    .hide-web {
+        display: none;
+    }
+    .card-review {
+        width: 12rem!important;
+    }
+    /* homepage7 section End>>> */
+    /* ---------------------- */
+    /* homepage8 (footer) section start >>> */
+    .h4-footer {
+        font-size: 23px;
+    }
+    .bg-dark {
+        height: max-content;
+    }
+    .paragraph-footer {
+        font-size: 16px;
+    }
+    .footer-div {
+        margin-top: 15px!important;
+    }
+    .follow-footer {
+        font-size: 16px;
+    }
+    .follow-btn {
+        width: 35px;
+        margin: auto;
+        padding: 2px;
+    }
+    .copyright {
+        margin: auto;
+        padding: 15px;
+        font-size: 12px;
+    }
+}
+
+@media (min-width: 326px) and (max-width: 360.98px) {
+    .first-section {
+        margin-bottom: 80px;
+    }
+    /* homepage1 section start >>> */
+    /* navbar fixing */
+    .nav-text {
+        font-size: 15px;
+        margin-left: 5px;
+    }
+    .loop-video {
+        width: 320px;
+        height: 180px;
+        margin-bottom: 20px!important;
+    }
+    .title-capital {
+        font-size: 36px;
+    }
+    .text-name {
+        font-size: 32px;
+        letter-spacing: 3px;
+    }
+    .btn-hire {
+        font-size: 17px;
+        letter-spacing: 0.7px;
+        font-weight: 600;
+        padding-inline: 18.5px;
+        padding-block: 7px;
+    }
+    .text-paragraph {
+        font-size: 16px;
+    }
+    .logo-image {
+        width: 35px;
+    }
+    /* homepage1 section & navbar end >>> */
+    /* ------------------------ */
+    /* homepage2 section start >>> */
+    #video-title {
+        font-size: 25px;
+        margin-bottom: 10px;
+        letter-spacing: 2px;
+    }
+    .video-icon {
+        width: 42px;
+    }
+    .yt-demo {
+        width: 256px;
+        height: 144px;
+        margin-bottom: 20px;
+    }
+    #homepage2 {
+        height: fit-content;
+        margin-bottom: 100px!important;
+    }
+    .hide-240 {
+        display: none;
+    }
+    /* homepage2 section end >>> */
+    /* ---------------------- */
+    /* homepage3 section start >>> */
+    #web-title {
+        font-size: 23px;
+        letter-spacing: 2.5px;
+    }
+    .web-icon {
+        width: 45px;
+        letter-spacing: 0.7px;
+    }
+    .web-size {
+        width: 256px;
+        margin-bottom: 20px!important;
+    }
+    #hide-web {
+        display: none;
+    }
+    /* homepage3 section End>>> */
+    /* ---------------------- */
+    /* homepage4 section start >>> */
+    #graphics-title {
+        font-size: 23px;
+        letter-spacing: 2.5px;
+    }
+    #homepage4 {
+        height: 95vh;
+    }
+    /* homepage4 section End>>> */
+    /* ---------------------- */
+    /* homepage5 section start >>> */
+    .title-learning {
+        font-size: 20px;
+        margin-bottom: 50px;
+        letter-spacing: 2px!important;
+    }
+    .left-rightIcon {
+        width: 40px;
+    }
+    .learning-card {
+        width: 250px;
+        margin-bottom: 25px!important;
+    }
+    #description {
+        font-size: 16px;
+        display: none;
+    }
+    .btn-read {
+        padding-inline: 10px;
+        border: 2px solid rgb(95, 95, 95);
+        padding-block: 5px;
+        font-size: 15px;
+    }
+    /* homepage5 section End>>> */
+    /* ---------------------- */
+    /* homepage6 section start >>> */
+    .face-icon {
+        width: 220px;
+    }
+    .row {
+        overflow: hidden!important;
+    }
+    .h2-about {
+        font-size: 25px;
+        letter-spacing: 3px;
+        font-family: 'Staatliches', cursive;
+    }
+    .h3-about {
+        font-size: 20px;
+    }
+    .paragraph-about {
+        font-size: 15px;
+    }
+    .circle-about {
+        width: 25px;
+    }
+    .info-about {
+        font-size: 16px;
+        margin-bottom: 20px;
+        text-align: center!important;
+    }
+    /* homepage6 section End>>> */
+    /* ---------------------- */
+    /* homepage7 (reviews) section start >>> */
+    .hide-240-review {
+        visibility: visible;
+    }
+    .hide-web {
+        display: none;
+    }
+    .card-review {
+        width: 13.5rem!important;
+    }
+    /* homepage7 section End>>> */
+    /* ---------------------- */
+    /* homepage8 (footer) section start >>> */
+    .h4-footer {
+        font-size: 23px;
+    }
+    .bg-dark {
+        height: max-content;
+    }
+    .paragraph-footer {
+        font-size: 16px;
+    }
+    .footer-div {
+        margin-top: 15px!important;
+    }
+    .follow-footer {
+        font-size: 16px;
+    }
+    .follow-btn {
+        width: 35px;
+        margin: auto;
+        padding: 2px;
+    }
+    .copyright {
+        margin: auto;
+        padding: 15px;
+        font-size: 12px;
+    }
+}
+
+@media (min-width: 361px) and (max-width: 384.98px) {
+    .first-section {
+        margin-bottom: 90px;
+    }
+    /* homepage1 section start >>> */
+    /* navbar fixing */
+    .nav-text {
+        font-size: 15px;
+        margin-left: 5px;
+    }
+    .loop-video {
+        width: 320px;
+        height: 180px;
+        margin-bottom: 20px!important;
+    }
+    .title-capital {
+        font-size: 36px;
+    }
+    .text-name {
+        font-size: 32px;
+        letter-spacing: 3px;
+    }
+    .btn-hire {
+        font-size: 17px;
+        letter-spacing: 0.7px;
+        font-weight: 600;
+        padding-inline: 18.5px;
+        padding-block: 7px;
+    }
+    .text-paragraph {
+        font-size: 16px;
+    }
+    .logo-image {
+        width: 35px;
+    }
+    /* homepage1 section & navbar end >>> */
+    /* ------------------------ */
+    /* homepage2 section start >>> */
+    #video-title {
+        font-size: 25px;
+        margin-bottom: 10px;
+        letter-spacing: 2px;
+    }
+    .video-icon {
+        width: 42px;
+    }
+    .yt-demo {
+        width: 256px;
+        height: 144px;
+        margin-bottom: 20px;
+    }
+    #homepage2 {
+        height: fit-content;
+        margin-bottom: 100px!important;
+    }
+    .hide-240 {
+        display: none;
+    }
+    /* homepage2 section end >>> */
+    /* ---------------------- */
+    /* homepage3 section start >>> */
+    #web-title {
+        font-size: 23px;
+        letter-spacing: 2.5px;
+    }
+    .web-icon {
+        width: 45px;
+        letter-spacing: 0.7px;
+    }
+    .web-size {
+        width: 256px;
+        margin-bottom: 20px!important;
+    }
+    #hide-web {
+        display: none;
+    }
+    /* homepage3 section End>>> */
+    /* ---------------------- */
+    /* homepage4 section start >>> */
+    #graphics-title {
+        font-size: 23px;
+        letter-spacing: 2.5px;
+    }
+    #homepage4 {
+        height: 95vh;
+    }
+    /* homepage4 section End>>> */
+    /* ---------------------- */
+    /* homepage5 section start >>> */
+    .title-learning {
+        font-size: 20px;
+        margin-bottom: 50px;
+        letter-spacing: 2px!important;
+    }
+    .left-rightIcon {
+        width: 40px;
+    }
+    .learning-card {
+        width: 250px;
+        margin-bottom: 25px!important;
+    }
+    #description {
+        font-size: 16px;
+        display: none;
+    }
+    .btn-read {
+        padding-inline: 10px;
+        border: 2px solid rgb(95, 95, 95);
+        padding-block: 5px;
+        font-size: 15px;
+    }
+    /* homepage5 section End>>> */
+    /* ---------------------- */
+    /* homepage6 section start >>> */
+    .face-icon {
+        width: 220px;
+    }
+    .row {
+        overflow: hidden!important;
+    }
+    .h2-about {
+        font-size: 25px;
+        letter-spacing: 3px;
+        font-family: 'Staatliches', cursive;
+    }
+    .h3-about {
+        font-size: 20px;
+    }
+    .paragraph-about {
+        font-size: 15px;
+    }
+    .circle-about {
+        width: 25px;
+    }
+    .info-about {
+        font-size: 16px;
+        margin-bottom: 20px;
+        text-align: center!important;
+    }
+    /* homepage6 section End>>> */
+    /* ---------------------- */
+    /* homepage7 (reviews) section start >>> */
+    .hide-240-review {
+        visibility: visible;
+    }
+    .hide-web {
+        display: none;
+    }
+    .card-review {
+        width: 13.5rem!important;
+    }
+    /* homepage7 section End>>> */
+    /* ---------------------- */
+    /* homepage8 (footer) section start >>> */
+    .h4-footer {
+        font-size: 23px;
+    }
+    .bg-dark {
+        height: max-content;
+    }
+    .paragraph-footer {
+        font-size: 16px;
+    }
+    .footer-div {
+        margin-top: 15px!important;
+    }
+    .follow-footer {
+        font-size: 16px;
+    }
+    .follow-btn {
+        width: 35px;
+        margin: auto;
+        padding: 2px;
+    }
+    .copyright {
+        margin: auto;
+        padding: 15px;
+        font-size: 12px;
+    }
+}
+
+@media (min-width: 385px) and (max-width: 412.98px) {
+    .first-section {
+        margin-bottom: 100px;
+    }
+    /* homepage1 section start >>> */
+    /* navbar fixing */
+    .nav-text {
+        font-size: 16px;
+        margin-left: 5px;
+    }
+    .loop-video {
+        width: 384px;
+        height: 216px;
+        margin-bottom: 20px!important;
+    }
+    .title-capital {
+        font-size: 38px;
+    }
+    .text-name {
+        font-size: 34px;
+        letter-spacing: 3px;
+    }
+    .btn-hire {
+        font-size: 18px;
+        letter-spacing: 0.7px;
+        font-weight: 600;
+        padding-inline: 18.5px;
+        padding-block: 7px;
+    }
+    .text-paragraph {
+        font-size: 17px;
+    }
+    .logo-image {
+        width: 36px;
+    }
+    /* homepage1 section & navbar end >>> */
+    /* ------------------------ */
+    /* homepage2 section start >>> */
+    #video-title {
+        font-size: 26px;
+        margin-bottom: 10px;
+        letter-spacing: 2px;
+    }
+    .video-icon {
+        width: 42px;
+    }
+    .yt-demo {
+        width: 320px;
+        height: 180px;
+        margin-bottom: 20px;
+    }
+    #homepage2 {
+        height: min-content;
+        margin-bottom: -130px!important;
+    }
+    .hide-240 {
+        display: none;
+    }
+    /* homepage2 section end >>> */
+    /* ---------------------- */
+    /* homepage3 section start >>> */
+    #web-title {
+        font-size: 23px;
+        letter-spacing: 2.5px;
+    }
+    .web-icon {
+        width: 45px;
+        letter-spacing: 0.7px;
+    }
+    .web-size {
+        width: 315px;
+        margin-bottom: 20px!important;
+    }
+    #hide-web {
+        display: none;
+    }
+    /* homepage3 section End>>> */
+    /* ---------------------- */
+    /* homepage4 section start >>> */
+    #graphics-title {
+        font-size: 23px;
+        letter-spacing: 2.5px;
+    }
+    #homepage4 {
+        height: 95vh;
+    }
+    /* homepage4 section End>>> */
+    /* ---------------------- */
+    /* homepage5 section start >>> */
+    .title-learning {
+        font-size: 20px;
+        margin-bottom: 50px;
+        letter-spacing: 2px!important;
+    }
+    .left-rightIcon {
+        width: 40px;
+    }
+    .learning-card {
+        width: 250px;
+        margin-bottom: 25px!important;
+    }
+    #description {
+        font-size: 16px;
+        display: none;
+    }
+    .btn-read {
+        padding-inline: 10px;
+        border: 2px solid rgb(95, 95, 95);
+        padding-block: 5px;
+        font-size: 15px;
+    }
+    /* homepage5 section End>>> */
+    /* ---------------------- */
+    /* homepage6 section start >>> */
+    .face-icon {
+        width: 240px;
+    }
+    .row {
+        overflow: hidden!important;
+    }
+    .h2-about {
+        font-size: 25px;
+        letter-spacing: 3px;
+        font-family: 'Staatliches', cursive;
+    }
+    .h3-about {
+        font-size: 20px;
+    }
+    .paragraph-about {
+        font-size: 15px;
+    }
+    .circle-about {
+        width: 25px;
+    }
+    .info-about {
+        font-size: 16px;
+        margin-bottom: 20px;
+        text-align: center!important;
+    }
+    /* homepage6 section End>>> */
+    /* ---------------------- */
+    /* homepage7 (reviews) section start >>> */
+    .hide-240-review {
+        visibility: visible;
+    }
+    .hide-web {
+        display: none;
+    }
+    .card-review {
+        width: 14.5rem!important;
+    }
+    /* homepage7 section End>>> */
+    /* ---------------------- */
+    /* homepage8 (footer) section start >>> */
+    .h4-footer {
+        font-size: 23px;
+    }
+    .bg-dark {
+        height: max-content;
+    }
+    .paragraph-footer {
+        font-size: 16px;
+    }
+    .footer-div {
+        margin-top: 15px!important;
+    }
+    .follow-footer {
+        font-size: 16px;
+    }
+    .follow-btn {
+        width: 35px;
+        margin: auto;
+        padding: 2px;
+    }
+    .copyright {
+        margin: auto;
+        padding: 15px;
+        font-size: 12px;
+    }
+}
+
+@media (min-width: 413px) and (max-width: 480.98px) {
+    .first-section {
+        margin-bottom: 100px;
+    }
+    /* homepage1 section start >>> */
+    /* navbar fixing */
+    .nav-text {
+        font-size: 17px;
+        margin-left: 5px;
+    }
+    .loop-video {
+        width: 384px;
+        height: 216px;
+        margin-bottom: 20px!important;
+    }
+    .title-capital {
+        font-size: 39px;
+    }
+    .text-name {
+        font-size: 35px;
+        letter-spacing: 3px;
+    }
+    .btn-hire {
+        font-size: 19px;
+        letter-spacing: 0.7px;
+        font-weight: 600;
+        padding-inline: 18.5px;
+        padding-block: 7px;
+    }
+    .text-paragraph {
+        font-size: 17px;
+    }
+    .logo-image {
+        width: 37px;
+    }
+    /* homepage1 section & navbar end >>> */
+    /* ------------------------ */
+    /* homepage2 section start >>> */
+    #video-title {
+        font-size: 27px;
+        margin-bottom: 10px;
+        letter-spacing: 2px;
+    }
+    .video-icon {
+        width: 42.5px;
+    }
+    .yt-demo {
+        width: 368px;
+        height: 207px;
+        margin-bottom: 25px;
+    }
+    #homepage2 {
+        height: min-content;
+        margin-bottom: -130px!important;
+    }
+    .hide-240 {
+        display: none;
+    }
+    /* homepage2 section end >>> */
+    /* ---------------------- */
+    /* homepage3 section start >>> */
+    #web-title {
+        font-size: 25px;
+        letter-spacing: 2.5px;
+    }
+    .web-icon {
+        width: 46px;
+        letter-spacing: 0.7px;
+    }
+    .web-size {
+        width: 360px;
+        margin-bottom: 20px!important;
+    }
+    #hide-web {
+        display: none;
+    }
+    /* homepage3 section End>>> */
+    /* ---------------------- */
+    /* homepage4 section start >>> */
+    #graphics-title {
+        font-size: 25px;
+        letter-spacing: 2.5px;
+    }
+    #homepage4 {
+        height: 95vh;
+    }
+    /* homepage4 section End>>> */
+    /* ---------------------- */
+    /* homepage5 section start >>> */
+    .title-learning {
+        font-size: 20px;
+        margin-bottom: 50px;
+        letter-spacing: 2px!important;
+    }
+    .left-rightIcon {
+        width: 40px;
+    }
+    .learning-card {
+        width: 250px;
+        margin-bottom: 25px!important;
+    }
+    #description {
+        font-size: 16px;
+        display: none;
+    }
+    .btn-read {
+        padding-inline: 10px;
+        border: 2px solid rgb(95, 95, 95);
+        padding-block: 5px;
+        font-size: 15px;
+    }
+    /* homepage5 section End>>> */
+    /* ---------------------- */
+    /* homepage6 section start >>> */
+    .face-icon {
+        width: 250px;
+    }
+    .row {
+        overflow: hidden!important;
+    }
+    .h2-about {
+        font-size: 27px;
+        letter-spacing: 4px;
+        font-family: 'Staatliches', cursive;
+    }
+    .h3-about {
+        font-size: 24px;
+    }
+    .paragraph-about {
+        font-size: 20px;
+    }
+    .circle-about {
+        width: 25px;
+    }
+    .info-about {
+        font-size: 20px;
+        margin-bottom: 20px;
+        text-align: center!important;
+    }
+    /* homepage6 section End>>> */
+    /* ---------------------- */
+    /* homepage7 (reviews) section start >>> */
+    .hide-240-review {
+        visibility: visible;
+    }
+    .hide-web {
+        display: none;
+    }
+    .card-review {
+        width: 15.5rem!important;
+    }
+    /* homepage7 section End>>> */
+    /* ---------------------- */
+    /* homepage8 (footer) section start >>> */
+    .h4-footer {
+        font-size: 23px;
+    }
+    .bg-dark {
+        height: max-content;
+    }
+    .paragraph-footer {
+        font-size: 16px;
+    }
+    .footer-div {
+        margin-top: 15px!important;
+    }
+    .follow-footer {
+        font-size: 16px;
+    }
+    .follow-btn {
+        width: 35px;
+        margin: auto;
+        padding: 5px;
+    }
+    .copyright {
+        margin: auto;
+        padding: 15px;
+        font-size: 12px;
+    }
+}
+
+@media (min-width: 481px) and (max-width: 540.98px) {
+    .first-section {
+        margin-bottom: 130px;
+    }
+    /* homepage1 section start >>> */
+    /* navbar fixing */
+    .nav-text {
+        font-size: 17.5px;
+        margin-left: 5.5px;
+    }
+    .loop-video {
+        width: 480px;
+        height: 270px;
+        margin-bottom: 20px!important;
+    }
+    .title-capital {
+        font-size: 40px;
+    }
+    .text-name {
+        font-size: 36px;
+        letter-spacing: 3px;
+    }
+    .btn-hire {
+        font-size: 19.5px;
+        letter-spacing: 0.7px;
+        font-weight: 600;
+        padding-inline: 18.5px;
+        padding-block: 7.3px;
+    }
+    .text-paragraph {
+        font-size: 17.5px;
+    }
+    .logo-image {
+        width: 37.5px;
+    }
+    /* homepage1 section & navbar end >>> */
+    /* ------------------------ */
+    /* homepage2 section start >>> */
+    #video-title {
+        font-size: 27.5px;
+        margin-bottom: 12px;
+        letter-spacing: 2.3px;
+    }
+    .video-icon {
+        width: 43px;
+    }
+    .yt-demo {
+        width: 384px;
+        height: 216px;
+        margin-bottom: 26px;
+    }
+    #homepage2 {
+        height: min-content;
+        margin-bottom: 100px!important;
+    }
+    .hide-240 {
+        display: none;
+    }
+    /* homepage2 section end >>> */
+    /* ---------------------- */
+    /* homepage3 section start >>> */
+    #web-title {
+        font-size: 27px;
+        letter-spacing: 2.7px;
+    }
+    .web-icon {
+        width: 46.5px;
+        letter-spacing: 0.7px;
+    }
+    .web-size {
+        width: 380px;
+        margin-bottom: 20px!important;
+    }
+    #hide-web {
+        display: none;
+    }
+    /* homepage3 section End>>> */
+    /* ---------------------- */
+    /* homepage4 section start >>> */
+    #graphics-title {
+        font-size: 27px;
+        letter-spacing: 2.6px;
+    }
+    #homepage4 {
+        height: 95vh;
+    }
+    /* homepage4 section End>>> */
+    /* ---------------------- */
+    /* homepage5 section start >>> */
+    .title-learning {
+        font-size: 22px;
+        margin-bottom: 50px;
+        letter-spacing: 2px!important;
+    }
+    .left-rightIcon {
+        width: 40.5px;
+    }
+    .learning-card {
+        width: 270px;
+        margin-bottom: 25px!important;
+    }
+    #description {
+        font-size: 15px;
+    }
+    .btn-read {
+        padding-inline: 10px;
+        border: 2px solid rgb(95, 95, 95);
+        padding-block: 5px;
+        font-size: 16px;
+    }
+    /* homepage5 section End>>> */
+    /* ---------------------- */
+    /* homepage6 section start >>> */
+    .face-icon {
+        width: 270px;
+    }
+    .row {
+        overflow: hidden!important;
+    }
+    .h2-about {
+        font-size: 28px;
+        letter-spacing: 4px;
+        font-family: 'Staatliches', cursive;
+    }
+    .h3-about {
+        font-size: 25px;
+    }
+    .paragraph-about {
+        font-size: 20px;
+    }
+    .circle-about {
+        width: 25px;
+    }
+    .info-about {
+        font-size: 20px;
+        margin-bottom: 20px;
+        text-align: center!important;
+    }
+    /* homepage6 section End>>> */
+    /* ---------------------- */
+    /* homepage7 (reviews) section start >>> */
+    .hide-240-review {
+        visibility: visible;
+    }
+    .hide-web {
+        display: none;
+    }
+    .card-review {
+        width: 16rem!important;
+    }
+    /* homepage7 section End>>> */
+    /* ---------------------- */
+    /* homepage8 (footer) section start >>> */
+    .h4-footer {
+        font-size: 23px;
+    }
+    .bg-dark {
+        height: max-content;
+    }
+    .paragraph-footer {
+        font-size: 16px;
+    }
+    .footer-div {
+        margin-top: 15px!important;
+    }
+    .follow-footer {
+        font-size: 16px;
+    }
+    .follow-btn {
+        width: 35px;
+        margin: auto;
+        padding: 5px;
+    }
+    .copyright {
+        margin: auto;
+        padding: 15px;
+        font-size: 12px;
+    }
+}
+
+@media (min-width: 541px) and (max-width: 600.98px) {
+    .first-section {
+        margin-bottom: 150px;
+    }
+    /* homepage1 section start >>> */
+    /* navbar fixing */
+    #homepage1 {
+        height: fit-content;
+    }
+    .nav-text {
+        font-size: 17.5px;
+        margin-left: 5.5px;
+    }
+    .loop-video {
+        width: 540px;
+        height: 304px;
+        margin-bottom: 20px!important;
+    }
+    .title-capital {
+        font-size: 40px;
+    }
+    .text-name {
+        font-size: 36px;
+        letter-spacing: 3px;
+    }
+    .btn-hire {
+        font-size: 19.5px;
+        letter-spacing: 0.7px;
+        font-weight: 600;
+        padding-inline: 18.5px;
+        padding-block: 7.3px;
+    }
+    .text-paragraph {
+        font-size: 17.5px;
+    }
+    .logo-image {
+        width: 37.5px;
+    }
+    /* homepage1 section & navbar end >>> */
+    /* ------------------------ */
+    /* homepage2 section start >>> */
+    #video-title {
+        font-size: 27.5px;
+        margin-bottom: 12px;
+        letter-spacing: 2.3px;
+    }
+    .video-icon {
+        width: 43px;
+    }
+    .yt-demo {
+        width: 250px;
+        height: 140px;
+        margin-bottom: 30px;
+    }
+    #homepage2 {
+        height: min-content;
+        margin-bottom: 130px!important;
+    }
+    .hide-600 {
+        display: none;
+    }
+    /* homepage2 section end >>> */
+    /* ---------------------- */
+    /* homepage3 section start >>> */
+    #web-title {
+        font-size: 27px;
+        letter-spacing: 2.7px;
+    }
+    .web-icon {
+        width: 46.5px;
+        letter-spacing: 0.7px;
+    }
+    .web-size {
+        width: 250px;
+        margin-bottom: 20px!important;
+    }
+    /* homepage3 section End>>> */
+    /* ---------------------- */
+    /* homepage4 section start >>> */
+    #graphics-title {
+        font-size: 27px;
+        letter-spacing: 2.6px;
+    }
+    #homepage4 {
+        height: 95vh;
+    }
+    /* homepage4 section End>>> */
+    /* ---------------------- */
+    /* homepage5 section start >>> */
+    .title-learning {
+        font-size: 22px;
+        margin-bottom: 50px;
+        letter-spacing: 2px!important;
+    }
+    .left-rightIcon {
+        width: 40.5px;
+    }
+    .learning-card {
+        width: 240px;
+        margin-bottom: 35px!important;
+    }
+    #description {
+        font-size: 15px;
+        display: none;
+    }
+    .btn-read {
+        padding-inline: 10px;
+        border: 2px solid rgb(95, 95, 95);
+        padding-block: 5px;
+        font-size: 16px;
+    }
+    /* homepage5 section End>>> */
+    /* ---------------------- */
+    /* homepage6 section start >>> */
+    .face-icon {
+        width: 270px;
+    }
+    .row {
+        overflow: hidden!important;
+    }
+    .h2-about {
+        font-size: 28px;
+        letter-spacing: 4px;
+        font-family: 'Staatliches', cursive;
+    }
+    .h3-about {
+        font-size: 25px;
+    }
+    .paragraph-about {
+        font-size: 20px;
+    }
+    .circle-about {
+        width: 25px;
+    }
+    .info-about {
+        font-size: 20px;
+        margin-bottom: 20px;
+        text-align: center!important;
+    }
+    /* homepage6 section End>>> */
+    /* ---------------------- */
+    /* homepage7 (reviews) section start >>> */
+    .hide-240-review {
+        visibility: visible;
+    }
+    .card-review {
+        width: 14rem!important;
+        margin-bottom: 20px!important;
+    }
+    /* homepage7 section End>>> */
+    /* ---------------------- */
+    /* homepage8 (footer) section start >>> */
+    .h4-footer {
+        font-size: 23px;
+    }
+    .bg-dark {
+        height: max-content;
+    }
+    .paragraph-footer {
+        font-size: 16px;
+    }
+    .footer-div {
+        margin-top: 40px!important;
+    }
+    .follow-footer {
+        font-size: 16px;
+    }
+    .follow-btn {
+        width: 35px;
+        margin: auto;
+        padding: 6px;
+    }
+    .copyright {
+        margin: auto;
+        padding: 15px;
+        font-size: 13px;
+        margin-top: 20px!important;
+    }
+}
+
+@media (min-width: 601px) and (max-width: 700.98px) {
+    .first-section {
+        margin-bottom: 150px;
+    }
+    /* homepage1 section start >>> */
+    /* navbar fixing */
+    #homepage1 {
+        height: fit-content;
+    }
+    .nav-text {
+        font-size: 17.5px;
+        margin-left: 5.5px;
+    }
+    .loop-video {
+        width: 600px;
+        height: 337.5px;
+        margin-bottom: 25px!important;
+    }
+    .title-capital {
+        font-size: 42px;
+    }
+    .text-name {
+        font-size: 37px;
+        letter-spacing: 3px;
+    }
+    .btn-hire {
+        font-size: 20px;
+        letter-spacing: 0.7px;
+        font-weight: 600;
+        padding-inline: 18.5px;
+        padding-block: 7.5px;
+    }
+    .text-paragraph {
+        font-size: 17.9px;
+    }
+    .logo-image {
+        width: 37.9px;
+    }
+    /* homepage1 section & navbar end >>> */
+    /* ------------------------ */
+    /* homepage2 section start >>> */
+    #video-title {
+        font-size: 27.9px;
+        margin-bottom: 12px;
+        letter-spacing: 2.6px;
+    }
+    .video-icon {
+        width: 43.5px;
+    }
+    .yt-demo {
+        width: 272px;
+        height: 153px;
+        margin-bottom: 30px;
+    }
+    #homepage2 {
+        height: min-content;
+        margin-bottom: 130px!important;
+    }
+    .hide-600 {
+        display: none;
+    }
+    /* homepage2 section end >>> */
+    /* ---------------------- */
+    /* homepage3 section start >>> */
+    #web-title {
+        font-size: 27px;
+        letter-spacing: 2.7px;
+    }
+    .web-icon {
+        width: 46.5px;
+        letter-spacing: 0.7px;
+    }
+    .web-size {
+        width: 250px;
+        margin-bottom: 20px!important;
+    }
+    /* homepage3 section End>>> */
+    /* ---------------------- */
+    /* homepage4 section start >>> */
+    #graphics-title {
+        font-size: 27px;
+        letter-spacing: 2.6px;
+    }
+    #homepage4 {
+        height: 95vh;
+    }
+    /* homepage4 section End>>> */
+    /* ---------------------- */
+    /* homepage5 section start >>> */
+    .title-learning {
+        font-size: 22px;
+        margin-bottom: 50px;
+        letter-spacing: 2px!important;
+    }
+    .left-rightIcon {
+        width: 40.5px;
+    }
+    .learning-card {
+        width: 240px;
+        margin-bottom: 35px!important;
+    }
+    #description {
+        font-size: 15px;
+        display: none;
+    }
+    .btn-read {
+        padding-inline: 10px;
+        border: 2px solid rgb(95, 95, 95);
+        padding-block: 5px;
+        font-size: 16px;
+    }
+    /* homepage5 section End>>> */
+    /* ---------------------- */
+    /* homepage6 section start >>> */
+    .face-icon {
+        width: 270px;
+    }
+    .row {
+        overflow: hidden!important;
+    }
+    .h2-about {
+        font-size: 28px;
+        letter-spacing: 4px;
+        font-family: 'Staatliches', cursive;
+    }
+    .h3-about {
+        font-size: 25px;
+    }
+    .paragraph-about {
+        font-size: 20px;
+    }
+    .circle-about {
+        width: 25px;
+    }
+    .info-about {
+        font-size: 20px;
+        margin-bottom: 20px;
+        text-align: center!important;
+    }
+    /* homepage6 section End>>> */
+    /* ---------------------- */
+    /* homepage7 (reviews) section start >>> */
+    .hide-240-review {
+        visibility: visible;
+    }
+    .card-review {
+        width: 14rem!important;
+        margin-bottom: 20px!important;
+    }
+    /* homepage7 section End>>> */
+    /* ---------------------- */
+    /* homepage8 (footer) section start >>> */
+    .h4-footer {
+        font-size: 23px;
+    }
+    .bg-dark {
+        height: max-content;
+    }
+    .paragraph-footer {
+        font-size: 16px;
+    }
+    .footer-div {
+        margin-top: 40px!important;
+    }
+    .follow-footer {
+        font-size: 16px;
+    }
+    .follow-btn {
+        width: 35px;
+        margin: auto;
+        padding: 6px;
+    }
+    .copyright {
+        margin: auto;
+        padding: 15px;
+        font-size: 13px;
+        margin-top: 20px!important;
+    }
+}
+
+@media (min-width: 701px) and (max-width: 767.98px) {
+    .first-section {
+        margin-bottom: 150px;
+    }
+    /* homepage1 section start >>> */
+    /* navbar fixing */
+    #homepage1 {
+        height: fit-content;
+    }
+    .nav-text {
+        font-size: 17.5px;
+        margin-left: 5.5px;
+    }
+    .loop-video {
+        width: 700px;
+        height: 393.75px;
+        margin-bottom: 28px!important;
+    }
+    .title-capital {
+        font-size: 44px;
+    }
+    .text-name {
+        font-size: 38px;
+        letter-spacing: 3px;
+    }
+    .btn-hire {
+        font-size: 20.5px;
+        letter-spacing: 0.8px;
+        font-weight: 600;
+        padding-inline: 18.6px;
+        padding-block: 7.7px;
+    }
+    .text-paragraph {
+        font-size: 18.3px;
+    }
+    .logo-image {
+        width: 38.3px;
+    }
+    /* homepage1 section & navbar end >>> */
+    /* ------------------------ */
+    /* homepage2 section start >>> */
+    #video-title {
+        font-size: 28.3px;
+        margin-bottom: 26px;
+        letter-spacing: 2.65px;
+    }
+    .video-icon {
+        width: 43.7px;
+    }
+    .yt-demo {
+        width: 272px;
+        height: 153px;
+        margin-bottom: 30px;
+    }
+    #homepage2 {
+        height: min-content;
+        margin-bottom: 130px!important;
+    }
+    .hide-600 {
+        display: none;
+    }
+    /* homepage2 section end >>> */
+    /* ---------------------- */
+    /* homepage3 section start >>> */
+    #web-title {
+        font-size: 29px;
+        letter-spacing: 2.7px;
+    }
+    .web-icon {
+        width: 47px;
+        letter-spacing: 0.7px;
+    }
+    .web-size {
+        width: 260px;
+        margin-bottom: 20px!important;
+    }
+    /* homepage3 section End>>> */
+    /* ---------------------- */
+    /* homepage4 section start >>> */
+    #graphics-title {
+        font-size: 29px;
+        letter-spacing: 2.6px;
+    }
+    #homepage4 {
+        height: 95vh;
+    }
+    /* homepage4 section End>>> */
+    /* ---------------------- */
+    /* homepage5 section start >>> */
+    .title-learning {
+        font-size: 25px;
+        margin-bottom: 50px;
+        letter-spacing: 2px!important;
+    }
+    .left-rightIcon {
+        width: 40.7px;
+    }
+    .learning-card {
+        width: 250px;
+        margin-bottom: 65px!important;
+    }
+    #description {
+        font-size: 15px;
+        display: none;
+    }
+    .btn-read {
+        padding-inline: 10px;
+        border: 2px solid rgb(95, 95, 95);
+        padding-block: 5px;
+        font-size: 17px;
+    }
+    /* homepage5 section End>>> */
+    /* ---------------------- */
+    /* homepage6 section start >>> */
+    .face-icon {
+        width: 300px;
+    }
+    .row {
+        overflow: hidden!important;
+    }
+    .h2-about {
+        font-size: 30px;
+        letter-spacing: 5px;
+        font-family: 'Staatliches', cursive;
+    }
+    .h3-about {
+        font-size: 26px;
+    }
+    .paragraph-about {
+        font-size: 20px;
+    }
+    .circle-about {
+        width: 25px;
+    }
+    .info-about {
+        font-size: 22px;
+        margin-bottom: 20px;
+        text-align: center!important;
+    }
+    /* homepage6 section End>>> */
+    /* ---------------------- */
+    /* homepage7 (reviews) section start >>> */
+    .hide-240-review {
+        visibility: visible;
+    }
+    .card-review {
+        width: 15rem!important;
+        margin-bottom: 30px!important;
+    }
+    /* homepage7 section End>>> */
+    /* ---------------------- */
+    /* homepage8 (footer) section start >>> */
+    .h4-footer {
+        font-size: 25px;
+    }
+    .bg-dark {
+        height: max-content;
+    }
+    .paragraph-footer {
+        font-size: 18px;
+    }
+    .footer-div {
+        margin-top: 40px!important;
+    }
+    .follow-footer {
+        font-size: 16px;
+    }
+    .follow-btn {
+        width: 40px;
+        margin: auto;
+        padding: 8px;
+    }
+    .copyright {
+        margin: auto;
+        padding: 15px;
+        font-size: 13px;
+        margin-top: 25px!important;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 800.98px) {
+    .first-section {
+        margin-bottom: 150px;
+    }
+    /* homepage1 section start >>> */
+    /* navbar fixing */
+    #homepage1 {
+        height: fit-content;
+    }
+    .nav-text {
+        font-size: 17.5px;
+        margin-left: 5.5px;
+    }
+    .loop-video {
+        width: 700px;
+        height: 393.75px;
+        margin-bottom: 28px!important;
+    }
+    .title-capital {
+        font-size: 44px;
+    }
+    .text-name {
+        font-size: 38px;
+        letter-spacing: 3px;
+    }
+    .btn-hire {
+        font-size: 20.5px;
+        letter-spacing: 0.8px;
+        font-weight: 600;
+        padding-inline: 18.6px;
+        padding-block: 7.7px;
+    }
+    .text-paragraph {
+        font-size: 18.3px;
+    }
+    .logo-image {
+        width: 38.3px;
+    }
+    /* homepage1 section & navbar end >>> */
+    /* ------------------------ */
+    /* homepage2 section start >>> */
+    #video-title {
+        font-size: 28.3px;
+        margin-bottom: 26px;
+        letter-spacing: 2.65px;
+    }
+    .video-icon {
+        width: 43.7px;
+    }
+    .yt-demo {
+        width: 240px;
+        height: 135px;
+        margin-bottom: 80px;
+    }
+    #homepage2 {
+        height: min-content;
+        margin-bottom: 80px!important;
+    }
+    .hide-800 {
+        display: none;
+    }
+    /* homepage2 section end >>> */
+    /* ---------------------- */
+    /* homepage3 section start >>> */
+    #web-title {
+        font-size: 29px;
+        letter-spacing: 2.7px;
+    }
+    .web-icon {
+        width: 47px;
+        letter-spacing: 0.7px;
+    }
+    .web-size {
+        width: 230px;
+        margin-bottom: 20px!important;
+    }
+    /* homepage3 section End>>> */
+    /* ---------------------- */
+    /* homepage4 section start >>> */
+    #graphics-title {
+        font-size: 29px;
+        letter-spacing: 2.6px;
+    }
+    #homepage4 {
+        height: 95vh;
+    }
+    /* homepage4 section End>>> */
+    /* ---------------------- */
+    /* homepage5 section start >>> */
+    .title-learning {
+        font-size: 25px;
+        margin-bottom: 50px;
+        letter-spacing: 2px!important;
+    }
+    .left-rightIcon {
+        width: 40.7px;
+    }
+    .learning-card {
+        width: 230px;
+        margin-bottom: 65px!important;
+    }
+    #description {
+        font-size: 15px;
+    }
+    .btn-read {
+        padding-inline: 10px;
+        border: 2px solid rgb(95, 95, 95);
+        padding-block: 5px;
+        font-size: 17px;
+    }
+    /* homepage5 section End>>> */
+    /* ---------------------- */
+    /* homepage6 section start >>> */
+    .face-icon {
+        width: 330px;
+    }
+    .row {
+        overflow: hidden!important;
+    }
+    .h2-about {
+        font-size: 30px;
+        letter-spacing: 5px;
+        font-family: 'Staatliches', cursive;
+    }
+    .h3-about {
+        font-size: 26px;
+    }
+    .paragraph-about {
+        font-size: 20px;
+    }
+    .circle-about {
+        width: 25px;
+    }
+    .info-about {
+        font-size: 22px;
+        margin-bottom: 20px;
+        text-align: center!important;
+    }
+    /* homepage6 section End>>> */
+    /* ---------------------- */
+    /* homepage7 (reviews) section start >>> */
+    .hide-240-review {
+        visibility: visible;
+    }
+    .card-review {
+        width: 14rem!important;
+        margin-bottom: 30px!important;
+    }
+    /* homepage7 section End>>> */
+    /* ---------------------- */
+    /* homepage8 (footer) section start >>> */
+    .h4-footer {
+        font-size: 25px;
+    }
+    .bg-dark {
+        height: max-content;
+    }
+    .paragraph-footer {
+        font-size: 18px;
+    }
+    .footer-div {
+        margin-top: 40px!important;
+    }
+    .follow-footer {
+        font-size: 16px;
+    }
+    .follow-btn {
+        width: 40px;
+        margin: auto;
+        padding: 8px;
+    }
+    .copyright {
+        margin: auto;
+        padding: 15px;
+        font-size: 13px;
+        margin-top: 25px!important;
+    }
+}
+
+@media (min-width: 801px) and (max-width: 900.98px) {
+    .first-section {
+        margin-bottom: 150px;
+    }
+    /* homepage1 section start >>> */
+    /* navbar fixing */
+    #homepage1 {
+        height: fit-content;
+    }
+    .nav-text {
+        font-size: 18px;
+        margin-left: 5.8px;
+    }
+    .loop-video {
+        width: 800px;
+        height: 450px;
+        margin-bottom: 30px!important;
+    }
+    .title-capital {
+        font-size: 47px;
+    }
+    .text-name {
+        font-size: 43px;
+        letter-spacing: 4px;
+    }
+    .btn-hire {
+        font-size: 22px;
+        letter-spacing: 0.8px;
+        font-weight: 600;
+        padding-inline: 19px;
+        padding-block: 7.9px;
+    }
+    .text-paragraph {
+        font-size: 18.5px;
+    }
+    .logo-image {
+        width: 40px;
+    }
+    /* homepage1 section & navbar end >>> */
+    /* ------------------------ */
+    /* homepage2 section start >>> */
+    #video-title {
+        font-size: 29px;
+        margin-bottom: 26.5px;
+        letter-spacing: 2.65px;
+    }
+    .video-icon {
+        width: 44.5px;
+    }
+    .yt-demo {
+        width: 240px;
+        height: 135px;
+        margin-bottom: 80px;
+    }
+    #homepage2 {
+        height: min-content;
+        margin-bottom: 80px!important;
+    }
+    .hide-800 {
+        display: none;
+    }
+    /* homepage2 section end >>> */
+    /* ---------------------- */
+    /* homepage3 section start >>> */
+    #web-title {
+        font-size: 29px;
+        letter-spacing: 2.7px;
+    }
+    .web-icon {
+        width: 47px;
+        letter-spacing: 0.7px;
+    }
+    .web-size {
+        width: 230px;
+        margin-bottom: 20px!important;
+    }
+    /* homepage3 section End>>> */
+    /* ---------------------- */
+    /* homepage4 section start >>> */
+    #graphics-title {
+        font-size: 29px;
+        letter-spacing: 2.6px;
+    }
+    #homepage4 {
+        height: 95vh;
+    }
+    /* homepage4 section End>>> */
+    /* ---------------------- */
+    /* homepage5 section start >>> */
+    .title-learning {
+        font-size: 25px;
+        margin-bottom: 50px;
+        letter-spacing: 2px!important;
+    }
+    .left-rightIcon {
+        width: 40.7px;
+    }
+    .learning-card {
+        width: 230px;
+        margin-bottom: 65px!important;
+    }
+    #description {
+        font-size: 15px;
+    }
+    .btn-read {
+        padding-inline: 10px;
+        border: 2px solid rgb(95, 95, 95);
+        padding-block: 5px;
+        font-size: 17px;
+    }
+    /* homepage5 section End>>> */
+    /* ---------------------- */
+    /* homepage6 section start >>> */
+    .face-icon {
+        width: 330px;
+    }
+    .row {
+        overflow: hidden!important;
+    }
+    .h2-about {
+        font-size: 30px;
+        letter-spacing: 5px;
+        font-family: 'Staatliches', cursive;
+    }
+    .h3-about {
+        font-size: 26px;
+    }
+    .paragraph-about {
+        font-size: 20px;
+    }
+    .circle-about {
+        width: 25px;
+    }
+    .info-about {
+        font-size: 22px;
+        margin-bottom: 20px;
+        text-align: center!important;
+    }
+    /* homepage6 section End>>> */
+    /* ---------------------- */
+    /* homepage7 (reviews) section start >>> */
+    .hide-240-review {
+        visibility: visible;
+    }
+    .card-review {
+        width: 14rem!important;
+        margin-bottom: 30px!important;
+    }
+    /* homepage7 section End>>> */
+    /* ---------------------- */
+    /* homepage8 (footer) section start >>> */
+    .h4-footer {
+        font-size: 25px;
+    }
+    .bg-dark {
+        height: max-content;
+    }
+    .paragraph-footer {
+        font-size: 18px;
+    }
+    .footer-div {
+        margin-top: 40px!important;
+    }
+    .follow-footer {
+        font-size: 16px;
+    }
+    .follow-btn {
+        width: 40px;
+        margin: auto;
+        padding: 8px;
+    }
+    .copyright {
+        margin: auto;
+        padding: 15px;
+        font-size: 13px;
+        margin-top: 25px!important;
+    }
+}
+
+@media (min-width: 901px) and (max-width: 991.98px) {
+    .first-section {
+        margin-bottom: 150px;
+    }
+    /* homepage1 section start >>> */
+    /* navbar fixing */
+    #homepage1 {
+        height: fit-content;
+    }
+    .nav-text {
+        font-size: 18px;
+        margin-left: 5.8px;
+    }
+    .loop-video {
+        width: 800px;
+        height: 450px;
+        margin-bottom: 30px!important;
+    }
+    .title-capital {
+        font-size: 47px;
+    }
+    .text-name {
+        font-size: 43px;
+        letter-spacing: 4px;
+    }
+    .btn-hire {
+        font-size: 22px;
+        letter-spacing: 0.8px;
+        font-weight: 600;
+        padding-inline: 19px;
+        padding-block: 7.9px;
+    }
+    .text-paragraph {
+        font-size: 18.5px;
+    }
+    .logo-image {
+        width: 40px;
+    }
+    /* homepage1 section & navbar end >>> */
+    /* ------------------------ */
+    /* homepage2 section start >>> */
+    #video-title {
+        font-size: 29px;
+        margin-bottom: 26.5px;
+        letter-spacing: 2.65px;
+    }
+    .video-icon {
+        width: 44.5px;
+    }
+    .yt-demo {
+        width: 256px;
+        height: 144px;
+        margin-bottom: 80px;
+    }
+    #homepage2 {
+        height: min-content;
+        margin-bottom: 80px!important;
+    }
+    .hide-800 {
+        display: none;
+    }
+    /* homepage2 section end >>> */
+    /* ---------------------- */
+    /* homepage3 section start >>> */
+    #web-title {
+        font-size: 29px;
+        letter-spacing: 2.7px;
+    }
+    .web-icon {
+        width: 47px;
+        letter-spacing: 0.7px;
+    }
+    .web-size {
+        width: 250px;
+        margin-bottom: 20px!important;
+    }
+    /* homepage3 section End>>> */
+    /* ---------------------- */
+    /* homepage4 section start >>> */
+    #graphics-title {
+        font-size: 29px;
+        letter-spacing: 2.6px;
+    }
+    #homepage4 {
+        height: 95vh;
+    }
+    /* homepage4 section End>>> */
+    /* ---------------------- */
+    /* homepage5 section start >>> */
+    .title-learning {
+        font-size: 25px;
+        margin-bottom: 50px;
+        letter-spacing: 2px!important;
+    }
+    .left-rightIcon {
+        width: 40.7px;
+    }
+    .learning-card {
+        width: 235px;
+        margin-bottom: 65px!important;
+    }
+    #description {
+        font-size: 15px;
+    }
+    .btn-read {
+        padding-inline: 10px;
+        border: 2px solid rgb(95, 95, 95);
+        padding-block: 5px;
+        font-size: 17px;
+    }
+    /* homepage5 section End>>> */
+    /* ---------------------- */
+    /* homepage6 section start >>> */
+    .face-icon {
+        width: 350px;
+    }
+    .row {
+        overflow: hidden!important;
+    }
+    .h2-about {
+        font-size: 30px;
+        letter-spacing: 5px;
+        font-family: 'Staatliches', cursive;
+    }
+    .h3-about {
+        font-size: 26px;
+    }
+    .paragraph-about {
+        font-size: 20px;
+    }
+    .circle-about {
+        width: 25px;
+    }
+    .info-about {
+        font-size: 22px;
+        margin-bottom: 20px;
+        text-align: center!important;
+    }
+    /* homepage6 section End>>> */
+    /* ---------------------- */
+    /* homepage7 (reviews) section start >>> */
+    .hide-240-review {
+        visibility: visible;
+    }
+    .card-review {
+        width: 15rem!important;
+        margin-bottom: 30px!important;
+    }
+    /* homepage7 section End>>> */
+    /* ---------------------- */
+    /* homepage8 (footer) section start >>> */
+    .h4-footer {
+        font-size: 25px;
+    }
+    .bg-dark {
+        height: max-content;
+    }
+    .paragraph-footer {
+        font-size: 18px;
+    }
+    .footer-div {
+        margin-top: 40px!important;
+    }
+    .follow-footer {
+        font-size: 16px;
+    }
+    .follow-btn {
+        width: 40px;
+        margin: auto;
+        padding: 8px;
+    }
+    .copyright {
+        margin: auto;
+        padding: 15px;
+        font-size: 13px;
+        margin-top: 25px!important;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1024.98px) {
+    .first-section {
+        margin-bottom: 150px;
+    }
+    /* homepage1 section start >>> */
+    /* navbar fixing */
+    #homepage1 {
+        height: fit-content;
+        margin-bottom: 250px;
+        margin-top: 100px;
+    }
+    .nav-text {
+        font-size: 18px;
+        margin-left: 5.8px;
+    }
+    .loop-video {
+        width: 486px;
+        height: 273.38px;
+        margin-bottom: 30px!important;
+    }
+    .title-capital {
+        font-size: 40px;
+    }
+    .text-name {
+        font-size: 35px;
+        letter-spacing: 4px;
+    }
+    .btn-hire {
+        font-size: 20px;
+        letter-spacing: 0.8px;
+        font-weight: 600;
+        padding-inline: 18px;
+        padding-block: 7px;
+    }
+    .text-paragraph {
+        font-size: 16px;
+    }
+    .logo-image {
+        width: 40px;
+    }
+    /* homepage1 section & navbar end >>> */
+    /* ------------------------ */
+    /* homepage2 section start >>> */
+    #video-title {
+        font-size: 29px;
+        margin-bottom: 26.5px;
+        letter-spacing: 2.65px;
+    }
+    .video-icon {
+        width: 44.5px;
+    }
+    .yt-demo {
+        width: 282px;
+        height: 158.63px;
+        margin-bottom: 80px;
+    }
+    #homepage2 {
+        height: min-content;
+        margin-bottom: 80px!important;
+    }
+    /* homepage2 section end >>> */
+    /* ---------------------- */
+    /* homepage3 section start >>> */
+    #web-title {
+        font-size: 29px;
+        letter-spacing: 2.7px;
+    }
+    .web-icon {
+        width: 47px;
+        letter-spacing: 0.7px;
+    }
+    .web-size {
+        width: 280px;
+        margin-bottom: 20px!important;
+    }
+    /* homepage3 section End>>> */
+    /* ---------------------- */
+    /* homepage4 section start >>> */
+    #graphics-title {
+        font-size: 29px;
+        letter-spacing: 2.6px;
+    }
+    #homepage4 {
+        height: 95vh;
+    }
+    /* homepage4 section End>>> */
+    /* ---------------------- */
+    /* homepage5 section start >>> */
+    .title-learning {
+        font-size: 27px;
+        margin-bottom: 50px;
+        letter-spacing: 2px!important;
+    }
+    .left-rightIcon {
+        width: 41px;
+    }
+    .learning-card {
+        width: 275px;
+        margin-bottom: 65px!important;
+    }
+    #description {
+        font-size: 16px;
+    }
+    .btn-read {
+        padding-inline: 10px;
+        border: 2px solid rgb(95, 95, 95);
+        padding-block: 5px;
+        font-size: 17.5px;
+    }
+    /* homepage5 section End>>> */
+    /* ---------------------- */
+    /* homepage6 section start >>> */
+    .face-icon {
+        width: 360px;
+    }
+    .row {
+        overflow: hidden!important;
+    }
+    .h2-about {
+        font-size: 32px;
+        letter-spacing: 5.3px;
+        font-family: 'Staatliches', cursive;
+    }
+    .h3-about {
+        font-size: 27px;
+    }
+    .paragraph-about {
+        font-size: 20px;
+    }
+    .circle-about {
+        width: 25px;
+    }
+    .info-about {
+        font-size: 22px;
+        margin-bottom: 20px;
+        text-align: center!important;
+    }
+    /* homepage6 section End>>> */
+    /* ---------------------- */
+    /* homepage7 (reviews) section start >>> */
+    .hide-240-review {
+        visibility: visible;
+    }
+    .card-review {
+        width: 14rem!important;
+        margin-bottom: 30px!important;
+    }
+    /* homepage7 section End>>> */
+    /* ---------------------- */
+    /* homepage8 (footer) section start >>> */
+    .h4-footer {
+        font-size: 25px;
+    }
+    .bg-dark {
+        height: max-content;
+    }
+    .paragraph-footer {
+        font-size: 18px;
+    }
+    .footer-div {
+        margin-top: 40px!important;
+    }
+    .follow-footer {
+        font-size: 16px;
+    }
+    .follow-btn {
+        width: 40px;
+        margin: auto;
+        padding: 8px;
+    }
+    .copyright {
+        margin: auto;
+        padding: 15px;
+        font-size: 13px;
+        margin-top: 25px!important;
+    }
+}
+
+@media (min-width: 1025px) and (max-width: 1099.98px) {
+    .first-section {
+        margin-bottom: 150px;
+    }
+    /* homepage1 section start >>> */
+    /* navbar fixing */
+    #homepage1 {
+        height: fit-content;
+        margin-bottom: 250px;
+        margin-top: 100px;
+    }
+    .nav-text {
+        font-size: 18px;
+        margin-left: 5.8px;
+    }
+    .loop-video {
+        width: 512px;
+        height: 288px;
+        margin-bottom: 30px!important;
+    }
+    .title-capital {
+        font-size: 40px;
+    }
+    .text-name {
+        font-size: 35px;
+        letter-spacing: 4px;
+    }
+    .btn-hire {
+        font-size: 20px;
+        letter-spacing: 0.8px;
+        font-weight: 600;
+        padding-inline: 18px;
+        padding-block: 7px;
+    }
+    .text-paragraph {
+        font-size: 16px;
+    }
+    .logo-image {
+        width: 40px;
+    }
+    /* homepage1 section & navbar end >>> */
+    /* ------------------------ */
+    /* homepage2 section start >>> */
+    #video-title {
+        font-size: 29px;
+        margin-bottom: 26.5px;
+        letter-spacing: 2.65px;
+    }
+    .video-icon {
+        width: 44.5px;
+    }
+    .yt-demo {
+        width: 320px;
+        height: 180px;
+        margin-bottom: 45px;
+    }
+    #homepage2 {
+        height: min-content;
+        margin-bottom: 80px!important;
+    }
+    /* homepage2 section end >>> */
+    /* ---------------------- */
+    /* homepage3 section start >>> */
+    #web-title {
+        font-size: 29px;
+        letter-spacing: 2.7px;
+    }
+    .web-icon {
+        width: 47px;
+        letter-spacing: 0.7px;
+    }
+    .web-size {
+        width: 320px;
+        margin-bottom: 20px!important;
+    }
+    /* homepage3 section End>>> */
+    /* ---------------------- */
+    /* homepage4 section start >>> */
+    #graphics-title {
+        font-size: 29px;
+        letter-spacing: 2.6px;
+    }
+    #homepage4 {
+        height: 95vh;
+    }
+    /* homepage4 section End>>> */
+    /* ---------------------- */
+    /* homepage5 section start >>> */
+    .title-learning {
+        font-size: 27px;
+        margin-bottom: 50px;
+        letter-spacing: 2px!important;
+    }
+    .left-rightIcon {
+        width: 41px;
+    }
+    .learning-card {
+        width: 275px;
+        margin-bottom: 65px!important;
+    }
+    #description {
+        font-size: 16px;
+    }
+    .btn-read {
+        padding-inline: 10px;
+        border: 2px solid rgb(95, 95, 95);
+        padding-block: 5px;
+        font-size: 17.5px;
+    }
+    /* homepage5 section End>>> */
+    /* ---------------------- */
+    /* homepage6 section start >>> */
+    .face-icon {
+        width: 360px;
+    }
+    .row {
+        overflow: hidden!important;
+    }
+    .h2-about {
+        font-size: 32px;
+        letter-spacing: 5.3px;
+        font-family: 'Staatliches', cursive;
+    }
+    .h3-about {
+        font-size: 27px;
+    }
+    .paragraph-about {
+        font-size: 20px;
+    }
+    .circle-about {
+        width: 25px;
+    }
+    .info-about {
+        font-size: 22px;
+        margin-bottom: 20px;
+        text-align: center!important;
+    }
+    /* homepage6 section End>>> */
+    /* ---------------------- */
+    /* homepage7 (reviews) section start >>> */
+    .hide-240-review {
+        visibility: visible;
+    }
+    .card-review {
+        width: 14rem!important;
+        margin-bottom: 30px!important;
+    }
+    /* homepage7 section End>>> */
+    /* ---------------------- */
+    /* homepage8 (footer) section start >>> */
+    .h4-footer {
+        font-size: 25px;
+    }
+    .bg-dark {
+        height: max-content;
+    }
+    .paragraph-footer {
+        font-size: 18px;
+    }
+    .footer-div {
+        margin-top: 40px!important;
+    }
+    .follow-footer {
+        font-size: 16px;
+    }
+    .follow-btn {
+        width: 40px;
+        margin: auto;
+        padding: 8px;
+    }
+    .copyright {
+        margin: auto;
+        padding: 15px;
+        font-size: 13px;
+        margin-top: 25px!important;
+    }
+}
+
+@media (min-width: 1100px) and (max-width: 1199.98px) {
+    .first-section {
+        margin-bottom: 170px;
+    }
+    /* homepage1 section start >>> */
+    /* navbar fixing */
+    #homepage1 {
+        height: fit-content;
+        margin-bottom: 250px;
+        margin-top: 100px;
+    }
+    .nav-text {
+        font-size: 18px;
+        margin-left: 5.8px;
+    }
+    .loop-video {
+        width: 550px;
+        height: 309.38px;
+        margin-bottom: 30px!important;
+    }
+    .title-capital {
+        font-size: 40px;
+    }
+    .text-name {
+        font-size: 35px;
+        letter-spacing: 4px;
+    }
+    .btn-hire {
+        font-size: 20px;
+        letter-spacing: 0.8px;
+        font-weight: 600;
+        padding-inline: 18px;
+        padding-block: 7px;
+    }
+    .text-paragraph {
+        font-size: 16px;
+    }
+    .logo-image {
+        width: 40px;
+    }
+    /* homepage1 section & navbar end >>> */
+    /* ------------------------ */
+    /* homepage2 section start >>> */
+    #video-title {
+        font-size: 29px;
+        margin-bottom: 26.5px;
+        letter-spacing: 2.65px;
+    }
+    .video-icon {
+        width: 44.5px;
+    }
+    .yt-demo {
+        width: 350px;
+        height: 196.88px;
+        margin-bottom: 40px;
+    }
+    #homepage2 {
+        height: min-content;
+        margin-bottom: 80px!important;
+    }
+    /* homepage2 section end >>> */
+    /* ---------------------- */
+    /* homepage3 section start >>> */
+    #web-title {
+        font-size: 29px;
+        letter-spacing: 2.7px;
+    }
+    .web-icon {
+        width: 47px;
+        letter-spacing: 0.7px;
+    }
+    .web-size {
+        width: 350px;
+        margin-bottom: 20px!important;
+    }
+    /* homepage3 section End>>> */
+    /* ---------------------- */
+    /* homepage4 section start >>> */
+    #graphics-title {
+        font-size: 29px;
+        letter-spacing: 2.6px;
+    }
+    #homepage4 {
+        height: 95vh;
+    }
+    /* homepage4 section End>>> */
+    /* ---------------------- */
+    /* homepage5 section start >>> */
+    .title-learning {
+        font-size: 27px;
+        margin-bottom: 50px;
+        letter-spacing: 2px!important;
+    }
+    .left-rightIcon {
+        width: 41px;
+    }
+    .learning-card {
+        width: 275px;
+        margin-bottom: 65px!important;
+    }
+    #description {
+        font-size: 16px;
+    }
+    .btn-read {
+        padding-inline: 10px;
+        border: 2px solid rgb(95, 95, 95);
+        padding-block: 5px;
+        font-size: 17.5px;
+    }
+    /* homepage5 section End>>> */
+    /* ---------------------- */
+    /* homepage6 section start >>> */
+    .face-icon {
+        width: 360px;
+    }
+    .row {
+        overflow: hidden!important;
+    }
+    .h2-about {
+        font-size: 32px;
+        letter-spacing: 5.3px;
+        font-family: 'Staatliches', cursive;
+    }
+    .h3-about {
+        font-size: 27px;
+    }
+    .paragraph-about {
+        font-size: 20px;
+    }
+    .circle-about {
+        width: 25px;
+    }
+    .info-about {
+        font-size: 22px;
+        margin-bottom: 20px;
+        text-align: center!important;
+    }
+    /* homepage6 section End>>> */
+    /* ---------------------- */
+    /* homepage7 (reviews) section start >>> */
+    .hide-240-review {
+        visibility: visible;
+    }
+    .card-review {
+        width: 14rem!important;
+        margin-bottom: 30px!important;
+    }
+    /* homepage7 section End>>> */
+    /* ---------------------- */
+    /* homepage8 (footer) section start >>> */
+    .h4-footer {
+        font-size: 25px;
+    }
+    .bg-dark {
+        height: max-content;
+    }
+    .paragraph-footer {
+        font-size: 18px;
+    }
+    .footer-div {
+        margin-top: 40px!important;
+    }
+    .follow-footer {
+        font-size: 16px;
+    }
+    .follow-btn {
+        width: 40px;
+        margin: auto;
+        padding: 8px;
+    }
+    .copyright {
+        margin: auto;
+        padding: 15px;
+        font-size: 13px;
+        margin-top: 25px!important;
+    }
+}
+
+@media (min-width: 1200px) and (max-width: 1299.98px) {
+    .first-section {
+        margin-bottom: 170px;
+    }
+    /* homepage1 section start >>> */
+    /* navbar fixing */
+    #homepage1 {
+        height: fit-content;
+        margin-bottom: 250px;
+        margin-top: 100px;
+    }
+    .nav-text {
+        font-size: 20px;
+        margin-left: 6px;
+    }
+    .loop-video {
+        width: 600px;
+        height: 337.50px;
+        margin-bottom: 30px!important;
+    }
+    .title-capital {
+        font-size: 41px;
+    }
+    .text-name {
+        font-size: 36px;
+        letter-spacing: 4px;
+    }
+    .btn-hire {
+        font-size: 20.5px;
+        letter-spacing: 0.8px;
+        font-weight: 600;
+        padding-inline: 18px;
+        padding-block: 7px;
+    }
+    .text-paragraph {
+        font-size: 16.5px;
+    }
+    .logo-image {
+        width: 42px;
+    }
+    /* homepage1 section & navbar end >>> */
+    /* ------------------------ */
+    /* homepage2 section start >>> */
+    #video-title {
+        font-size: 30px;
+        margin-bottom: 26.5px;
+        letter-spacing: 2.7px;
+    }
+    .video-icon {
+        width: 45px;
+    }
+    .yt-demo {
+        width: 360px;
+        height: 202.50px;
+        margin-bottom: 40px;
+    }
+    #homepage2 {
+        height: min-content;
+        margin-bottom: 80px!important;
+    }
+    /* homepage2 section end >>> */
+    /* ---------------------- */
+    /* homepage3 section start >>> */
+    #web-title {
+        font-size: 29px;
+        letter-spacing: 2.7px;
+    }
+    .web-icon {
+        width: 47px;
+        letter-spacing: 0.7px;
+    }
+    .web-size {
+        width: 350px;
+        margin-bottom: 20px!important;
+    }
+    /* homepage3 section End>>> */
+    /* ---------------------- */
+    /* homepage4 section start >>> */
+    #graphics-title {
+        font-size: 29px;
+        letter-spacing: 2.6px;
+    }
+    #homepage4 {
+        height: 95vh;
+    }
+    /* homepage4 section End>>> */
+    /* ---------------------- */
+    /* homepage5 section start >>> */
+    .title-learning {
+        font-size: 27px;
+        margin-bottom: 50px;
+        letter-spacing: 2px!important;
+    }
+    .left-rightIcon {
+        width: 41px;
+    }
+    .learning-card {
+        width: 300px;
+        margin-bottom: 65px!important;
+    }
+    #description {
+        font-size: 16px;
+    }
+    .btn-read {
+        padding-inline: 10px;
+        border: 2px solid rgb(95, 95, 95);
+        padding-block: 5px;
+        font-size: 17.5px;
+    }
+    /* homepage5 section End>>> */
+    /* ---------------------- */
+    /* homepage6 section start >>> */
+    .face-icon {
+        width: 360px;
+    }
+    .row {
+        overflow: hidden!important;
+    }
+    .h2-about {
+        font-size: 32px;
+        letter-spacing: 5.3px;
+        font-family: 'Staatliches', cursive;
+    }
+    .h3-about {
+        font-size: 27px;
+    }
+    .paragraph-about {
+        font-size: 20px;
+    }
+    .circle-about {
+        width: 25px;
+    }
+    .info-about {
+        font-size: 22px;
+        margin-bottom: 20px;
+        text-align: center!important;
+    }
+    /* homepage6 section End>>> */
+    /* ---------------------- */
+    /* homepage7 (reviews) section start >>> */
+    .hide-240-review {
+        visibility: visible;
+    }
+    .card-review {
+        width: 14rem!important;
+        margin-bottom: 30px!important;
+    }
+    /* homepage7 section End>>> */
+    /* ---------------------- */
+    /* homepage8 (footer) section start >>> */
+    .h4-footer {
+        font-size: 25px;
+    }
+    .bg-dark {
+        height: max-content;
+    }
+    .paragraph-footer {
+        font-size: 18px;
+    }
+    .footer-div {
+        margin-top: 40px!important;
+    }
+    .follow-footer {
+        font-size: 16px;
+    }
+    .follow-btn {
+        width: 40px;
+        margin: auto;
+        padding: 8px;
+    }
+    .copyright {
+        margin: auto;
+        padding: 15px;
+        font-size: 13px;
+        margin-top: 25px!important;
+    }
+}
+
+@media (min-width: 1300px) and (max-width: 1399.98px) {
+    .first-section {
+        margin-bottom: 175px;
+    }
+    /* homepage1 section start >>> */
+    /* navbar fixing */
+    #homepage1 {
+        height: fit-content;
+        margin-bottom: 250px;
+        margin-top: 100px;
+    }
+    .nav-text {
+        font-size: 20px;
+        margin-left: 6px;
+    }
+    .loop-video {
+        width: 650px;
+        height: 365.63px;
+        margin-bottom: 30px!important;
+    }
+    .title-capital {
+        font-size: 41px;
+    }
+    .text-name {
+        font-size: 36px;
+        letter-spacing: 4px;
+    }
+    .btn-hire {
+        font-size: 21px;
+        letter-spacing: 0.8px;
+        font-weight: 600;
+        padding-inline: 18px;
+        padding-block: 7px;
+    }
+    .text-paragraph {
+        font-size: 16.7px;
+    }
+    .logo-image {
+        width: 42.5px;
+    }
+    /* homepage1 section & navbar end >>> */
+    /* ------------------------ */
+    /* homepage2 section start >>> */
+    #video-title {
+        font-size: 32px;
+        margin-bottom: 26.5px;
+        letter-spacing: 2.7px;
+    }
+    .video-icon {
+        width: 46px;
+    }
+    .yt-demo {
+        width: 372px;
+        height: 213.75px;
+        margin-bottom: 40px;
+    }
+    #homepage2 {
+        height: min-content;
+        margin-bottom: 80px!important;
+    }
+    /* homepage2 section end >>> */
+    /* ---------------------- */
+    /* homepage3 section start >>> */
+    #web-title {
+        font-size: 31px;
+        letter-spacing: 2.7px;
+    }
+    .web-icon {
+        width: 47.5px;
+        letter-spacing: 0.7px;
+    }
+    .web-size {
+        width: 380px;
+        margin-bottom: 20px!important;
+    }
+    /* homepage3 section End>>> */
+    /* ---------------------- */
+    /* homepage4 section start >>> */
+    #graphics-title {
+        font-size: 31px;
+        letter-spacing: 2.6px;
+    }
+    #homepage4 {
+        height: 95vh;
+    }
+    /* homepage4 section End>>> */
+    /* ---------------------- */
+    /* homepage5 section start >>> */
+    .title-learning {
+        font-size: 30px;
+        margin-bottom: 50px;
+        letter-spacing: 2px!important;
+    }
+    .left-rightIcon {
+        width: 41px;
+    }
+    .learning-card {
+        width: 330px;
+        margin-bottom: 65px!important;
+    }
+    #description {
+        font-size: 16px;
+    }
+    .btn-read {
+        padding-inline: 10px;
+        border: 2px solid rgb(95, 95, 95);
+        padding-block: 5px;
+        font-size: 17.5px;
+    }
+    /* homepage5 section End>>> */
+    /* ---------------------- */
+    /* homepage6 section start >>> */
+    .face-icon {
+        width: 380px;
+    }
+    .row {
+        overflow: hidden!important;
+    }
+    .h2-about {
+        font-size: 32px;
+        letter-spacing: 5.3px;
+        font-family: 'Staatliches', cursive;
+    }
+    .h3-about {
+        font-size: 27px;
+    }
+    .paragraph-about {
+        font-size: 24px;
+    }
+    .circle-about {
+        width: 25px;
+    }
+    .info-about {
+        font-size: 22px;
+        margin-bottom: 20px;
+        text-align: center!important;
+    }
+    /* homepage6 section End>>> */
+    /* ---------------------- */
+    /* homepage7 (reviews) section start >>> */
+    .hide-240-review {
+        visibility: visible;
+    }
+    .card-review {
+        width: 15rem!important;
+        margin-bottom: 30px!important;
+    }
+    /* homepage7 section End>>> */
+    /* ---------------------- */
+    /* homepage8 (footer) section start >>> */
+    .h4-footer {
+        font-size: 25px;
+    }
+    .bg-dark {
+        height: max-content;
+    }
+    .paragraph-footer {
+        font-size: 18px;
+    }
+    .footer-div {
+        margin-top: 40px!important;
+    }
+    .follow-footer {
+        font-size: 16px;
+    }
+    .follow-btn {
+        width: 40px;
+        margin: auto;
+        padding: 8px;
+    }
+    .copyright {
+        margin: auto;
+        padding: 15px;
+        font-size: 14px;
+        margin-top: 25px!important;
+    }
+}
+
+@media (min-width: 1400px) and (max-width: 1499.98px) {
+    .first-section {
+        margin-bottom: 175px;
+    }
+    /* homepage1 section start >>> */
+    /* navbar fixing */
+    #homepage1 {
+        height: fit-content;
+        margin-bottom: 250px;
+        margin-top: 100px;
+    }
+    .nav-text {
+        font-size: 20px;
+        margin-left: 6px;
+    }
+    .loop-video {
+        width: 700px;
+        height: 393.75px;
+        margin-bottom: 30px!important;
+    }
+    .title-capital {
+        font-size: 42px;
+    }
+    .text-name {
+        font-size: 37px;
+        letter-spacing: 4px;
+    }
+    .btn-hire {
+        font-size: 22px;
+        letter-spacing: 0.8px;
+        font-weight: 600;
+        padding-inline: 18px;
+        padding-block: 7px;
+    }
+    .text-paragraph {
+        font-size: 17px;
+    }
+    .logo-image {
+        width: 44px;
+    }
+    /* homepage1 section & navbar end >>> */
+    /* ------------------------ */
+    /* homepage2 section start >>> */
+    #video-title {
+        font-size: 34px;
+        margin-bottom: 26.5px;
+        letter-spacing: 2.7px;
+    }
+    .video-icon {
+        width: 47px;
+    }
+    .yt-demo {
+        width: 330px;
+        height: 185.63px;
+        margin-bottom: 40px;
+    }
+    #homepage2 {
+        height: min-content;
+        margin-bottom: 80px!important;
+    }
+    /* homepage2 section end >>> */
+    /* ---------------------- */
+    /* homepage3 section start >>> */
+    #web-title {
+        font-size: 31px;
+        letter-spacing: 2.7px;
+    }
+    .web-icon {
+        width: 47.5px;
+        letter-spacing: 0.7px;
+    }
+    .web-size {
+        width: 330px;
+        margin-bottom: 20px!important;
+    }
+    /* homepage3 section End>>> */
+    /* ---------------------- */
+    /* homepage4 section start >>> */
+    #graphics-title {
+        font-size: 31px;
+        letter-spacing: 2.6px;
+    }
+    #homepage4 {
+        height: 95vh;
+    }
+    /* homepage4 section End>>> */
+    /* ---------------------- */
+    /* homepage5 section start >>> */
+    .title-learning {
+        font-size: 34px;
+        margin-bottom: 50px;
+        letter-spacing: 2px!important;
+    }
+    .left-rightIcon {
+        width: 44px;
+    }
+    .learning-card {
+        width: 330px;
+        margin-bottom: 65px!important;
+    }
+    #description {
+        font-size: 16px;
+    }
+    .btn-read {
+        padding-inline: 10px;
+        border: 2px solid rgb(95, 95, 95);
+        padding-block: 5px;
+        font-size: 17.5px;
+    }
+    /* homepage5 section End>>> */
+    /* ---------------------- */
+    /* homepage6 section start >>> */
+    .face-icon {
+        width: 400px;
+    }
+    .row {
+        overflow: hidden!important;
+    }
+    .h2-about {
+        font-size: 34px;
+        letter-spacing: 5.5px;
+        font-family: 'Staatliches', cursive;
+    }
+    .h3-about {
+        font-size: 29px;
+    }
+    .paragraph-about {
+        font-size: 25px;
+    }
+    .circle-about {
+        width: 26px;
+    }
+    .info-about {
+        font-size: 24px;
+        margin-bottom: 20px;
+        text-align: center!important;
+    }
+    /* homepage6 section End>>> */
+    /* ---------------------- */
+    /* homepage7 (reviews) section start >>> */
+    .hide-240-review {
+        visibility: visible;
+    }
+    .card-review {
+        width: 16rem!important;
+        margin-bottom: 30px!important;
+    }
+    /* homepage7 section End>>> */
+    /* ---------------------- */
+    /* homepage8 (footer) section start >>> */
+    .h4-footer {
+        font-size: 25px;
+    }
+    .bg-dark {
+        height: max-content;
+    }
+    .paragraph-footer {
+        font-size: 18px;
+    }
+    .footer-div {
+        margin-top: 40px!important;
+    }
+    .follow-footer {
+        font-size: 16px;
+    }
+    .follow-btn {
+        width: 40px;
+        margin: auto;
+        padding: 8px;
+    }
+    .copyright {
+        margin: auto;
+        padding: 15px;
+        font-size: 14px;
+        margin-top: 25px!important;
+    }
+}
+
+@media (min-width: 1500px) and (max-width: 1599.98px) {
+    .first-section {
+        margin-bottom: 185px;
+    }
+    /* homepage1 section start >>> */
+    /* navbar fixing */
+    #homepage1 {
+        height: fit-content;
+        margin-bottom: 250px;
+        margin-top: 100px;
+    }
+    .nav-text {
+        font-size: 26px;
+        margin-left: 8px;
+    }
+    .loop-video {
+        width: 750px;
+        height: 421.88px;
+        margin-bottom: 30px!important;
+    }
+    .title-capital {
+        font-size: 44px;
+    }
+    .text-name {
+        font-size: 38px;
+        letter-spacing: 4.5px;
+    }
+    .btn-hire {
+        font-size: 22.3px;
+        letter-spacing: 0.8px;
+        font-weight: 600;
+        padding-inline: 18.5px;
+        padding-block: 7.5px;
+    }
+    .text-paragraph {
+        font-size: 17.5px;
+    }
+    .logo-image {
+        width: 45px;
+    }
+    /* homepage1 section & navbar end >>> */
+    /* ------------------------ */
+    /* homepage2 section start >>> */
+    #video-title {
+        font-size: 35px;
+        margin-bottom: 26.5px;
+        letter-spacing: 2.7px;
+    }
+    .video-icon {
+        width: 47.5px;
+    }
+    .yt-demo {
+        width: 340px;
+        height: 191.25px;
+        margin-bottom: 40px;
+    }
+    #homepage2 {
+        height: min-content;
+        margin-bottom: 80px!important;
+    }
+    /* homepage2 section end >>> */
+    /* ---------------------- */
+    /* homepage3 section start >>> */
+    #web-title {
+        font-size: 32px;
+        letter-spacing: 2.7px;
+    }
+    .web-icon {
+        width: 48px;
+        letter-spacing: 0.7px;
+    }
+    .web-size {
+        width: 340px;
+        margin-bottom: 20px!important;
+    }
+    /* homepage3 section End>>> */
+    /* ---------------------- */
+    /* homepage4 section start >>> */
+    #graphics-title {
+        font-size: 31px;
+        letter-spacing: 2.6px;
+    }
+    #homepage4 {
+        height: 95vh;
+    }
+    /* homepage4 section End>>> */
+    /* ---------------------- */
+    /* homepage5 section start >>> */
+    .title-learning {
+        font-size: 34px;
+        margin-bottom: 50px;
+        letter-spacing: 2px!important;
+    }
+    .left-rightIcon {
+        width: 44px;
+    }
+    .learning-card {
+        width: 330px;
+        margin-bottom: 65px!important;
+    }
+    #description {
+        font-size: 16px;
+    }
+    .btn-read {
+        padding-inline: 10px;
+        border: 2px solid rgb(95, 95, 95);
+        padding-block: 5px;
+        font-size: 17.5px;
+    }
+    /* homepage5 section End>>> */
+    /* ---------------------- */
+    /* homepage6 section start >>> */
+    .face-icon {
+        width: 410px;
+    }
+    .row {
+        overflow: hidden!important;
+    }
+    .h2-about {
+        font-size: 35px;
+        letter-spacing: 5.5px;
+        font-family: 'Staatliches', cursive;
+    }
+    .h3-about {
+        font-size: 29px;
+    }
+    .paragraph-about {
+        font-size: 27px;
+    }
+    .circle-about {
+        width: 28px;
+    }
+    .info-about {
+        font-size: 25px;
+        margin-bottom: 20px;
+        text-align: center!important;
+    }
+    /* homepage6 section End>>> */
+    /* ---------------------- */
+    /* homepage7 (reviews) section start >>> */
+    .hide-240-review {
+        visibility: visible;
+    }
+    .card-review {
+        width: 16.5rem!important;
+        margin-bottom: 30px!important;
+    }
+    /* homepage7 section End>>> */
+    /* ---------------------- */
+    /* homepage8 (footer) section start >>> */
+    .h4-footer {
+        font-size: 25px;
+    }
+    .bg-dark {
+        height: max-content;
+    }
+    .paragraph-footer {
+        font-size: 18px;
+    }
+    .footer-div {
+        margin-top: 40px!important;
+    }
+    .follow-footer {
+        font-size: 16px;
+    }
+    .follow-btn {
+        width: 40px;
+        margin: auto;
+        padding: 8px;
+    }
+    .copyright {
+        margin: auto;
+        padding: 15px;
+        font-size: 14px;
+        margin-top: 25px!important;
+    }
+}
+
+@media (min-width: 1600px) and (max-width: 1699.98px) {
+    .first-section {
+        margin-bottom: 180px;
+    }
+    /* homepage1 section start >>> */
+    /* navbar fixing */
+    #homepage1 {
+        height: fit-content;
+        margin-bottom: 250px;
+        margin-top: 100px;
+    }
+    .nav-text {
+        font-size: 24px;
+        margin-left: 6px;
+    }
+    .loop-video {
+        width: 800px;
+        height: 450px;
+        margin-bottom: 30px!important;
+    }
+    .title-capital {
+        font-size: 46px;
+    }
+    .text-name {
+        font-size: 39px;
+        letter-spacing: 4.5px;
+    }
+    .btn-hire {
+        font-size: 22.5px;
+        letter-spacing: 0.8px;
+        font-weight: 600;
+        padding-inline: 18.5px;
+        padding-block: 7.5px;
+    }
+    .text-paragraph {
+        font-size: 18.5px;
+    }
+    .logo-image {
+        width: 46px;
+    }
+    /* homepage1 section & navbar end >>> */
+    /* ------------------------ */
+    /* homepage2 section start >>> */
+    #video-title {
+        font-size: 36px;
+        margin-bottom: 26.5px;
+        letter-spacing: 2.7px;
+    }
+    .video-icon {
+        width: 48px;
+    }
+    .yt-demo {
+        width: 350px;
+        height: 196.88px;
+        margin-bottom: 40px;
+    }
+    #homepage2 {
+        height: min-content;
+        margin-bottom: 80px!important;
+    }
+    /* homepage2 section end >>> */
+    /* ---------------------- */
+    /* homepage3 section start >>> */
+    #web-title {
+        font-size: 34px;
+        letter-spacing: 2.7px;
+    }
+    .web-icon {
+        width: 48px;
+        letter-spacing: 0.7px;
+    }
+    .web-size {
+        width: 350px;
+        margin-bottom: 25px!important;
+    }
+    /* homepage3 section End>>> */
+    /* ---------------------- */
+    /* homepage4 section start >>> */
+    #graphics-title {
+        font-size: 31px;
+        letter-spacing: 2.6px;
+    }
+    #homepage4 {
+        height: 95vh;
+    }
+    /* homepage4 section End>>> */
+    /* ---------------------- */
+    /* homepage5 section start >>> */
+    .title-learning {
+        font-size: 36px;
+        margin-bottom: 50px;
+        letter-spacing: 2px!important;
+    }
+    .left-rightIcon {
+        width: 45px;
+    }
+    .learning-card {
+        width: 330px;
+        margin-bottom: 65px!important;
+    }
+    #description {
+        font-size: 16px;
+    }
+    .btn-read {
+        padding-inline: 10px;
+        border: 2px solid rgb(95, 95, 95);
+        padding-block: 5px;
+        font-size: 17.5px;
+    }
+    /* homepage5 section End>>> */
+    /* ---------------------- */
+    /* homepage6 section start >>> */
+    .face-icon {
+        width: 420px;
+    }
+    .row {
+        overflow: hidden!important;
+    }
+    .h2-about {
+        font-size: 36px;
+        letter-spacing: 5.7px;
+        font-family: 'Staatliches', cursive;
+    }
+    .h3-about {
+        font-size: 30px;
+    }
+    .paragraph-about {
+        font-size: 28px;
+    }
+    .circle-about {
+        width: 30px;
+    }
+    .info-about {
+        font-size: 26px;
+        margin-bottom: 20px;
+        text-align: center!important;
+    }
+    /* homepage6 section End>>> */
+    /* ---------------------- */
+    /* homepage7 (reviews) section start >>> */
+    .hide-240-review {
+        visibility: visible;
+    }
+    .card-review {
+        width: 17rem!important;
+        margin-bottom: 30px!important;
+    }
+    /* homepage7 section End>>> */
+    /* ---------------------- */
+    /* homepage8 (footer) section start >>> */
+    .h4-footer {
+        font-size: 26px;
+    }
+    .bg-dark {
+        height: max-content;
+    }
+    .paragraph-footer {
+        font-size: 19px;
+    }
+    .footer-div {
+        margin-top: 40px!important;
+    }
+    .follow-footer {
+        font-size: 18px;
+    }
+    .follow-btn {
+        width: 45px;
+        margin: auto;
+        padding: 8.5px;
+    }
+    .copyright {
+        margin: auto;
+        padding: 15px;
+        font-size: 15px;
+        margin-top: 25px!important;
+    }
+}
+
+@media (min-width: 1700px) and (max-width: 1799.98px) {
+    .first-section {
+        margin-bottom: 185px;
+    }
+    /* homepage1 section start >>> */
+    /* navbar fixing */
+    #homepage1 {
+        height: fit-content;
+        margin-bottom: 230px;
+        margin-top: 100px;
+    }
+    .nav-text {
+        font-size: 26px;
+        margin-left: 6.5px;
+    }
+    .loop-video {
+        width: 850px;
+        height: 478.13px;
+        margin-bottom: 35px!important;
+    }
+    .title-capital {
+        font-size: 48px;
+    }
+    .text-name {
+        font-size: 41px;
+        letter-spacing: 4.5px;
+    }
+    .btn-hire {
+        font-size: 23px;
+        letter-spacing: 0.8px;
+        font-weight: 600;
+        padding-inline: 18.5px;
+        padding-block: 7.5px;
+    }
+    .text-paragraph {
+        font-size: 19px;
+    }
+    .logo-image {
+        width: 47px;
+    }
+    /* homepage1 section & navbar end >>> */
+    /* ------------------------ */
+    /* homepage2 section start >>> */
+    #video-title {
+        font-size: 37px;
+        margin-bottom: 26.5px;
+        letter-spacing: 2.7px;
+    }
+    .video-icon {
+        width: 48.5px;
+    }
+    .yt-demo {
+        width: 366px;
+        height: 205.88px;
+        margin-bottom: 40px;
+    }
+    #homepage2 {
+        height: min-content;
+        margin-bottom: 80px!important;
+    }
+    /* homepage2 section end >>> */
+    /* ---------------------- */
+    /* homepage3 section start >>> */
+    #web-title {
+        font-size: 35px;
+        letter-spacing: 2.8px;
+    }
+    .web-icon {
+        width: 48.5px;
+        letter-spacing: 0.7px;
+    }
+    .web-size {
+        width: 366px;
+        margin-bottom: 25px!important;
+    }
+    /* homepage3 section End>>> */
+    /* ---------------------- */
+    /* homepage4 section start >>> */
+    #graphics-title {
+        font-size: 33px;
+        letter-spacing: 2.6px;
+    }
+    #homepage4 {
+        height: 95vh;
+    }
+    /* homepage4 section End>>> */
+    /* ---------------------- */
+    /* homepage5 section start >>> */
+    .title-learning {
+        font-size: 37px;
+        margin-bottom: 50px;
+        letter-spacing: 2px!important;
+    }
+    .left-rightIcon {
+        width: 45.5px;
+    }
+    .learning-card {
+        width: 335px;
+        margin-bottom: 65px!important;
+    }
+    #description {
+        font-size: 17px;
+    }
+    .btn-read {
+        padding-inline: 10px;
+        border: 2px solid rgb(95, 95, 95);
+        padding-block: 5px;
+        font-size: 17.5px;
+    }
+    /* homepage5 section End>>> */
+    /* ---------------------- */
+    /* homepage6 section start >>> */
+    .face-icon {
+        width: 430px;
+    }
+    .row {
+        overflow: hidden!important;
+    }
+    .h2-about {
+        font-size: 37px;
+        letter-spacing: 5.7px;
+        font-family: 'Staatliches', cursive;
+    }
+    .h3-about {
+        font-size: 32px;
+    }
+    .paragraph-about {
+        font-size: 28px;
+    }
+    .circle-about {
+        width: 33px;
+    }
+    .info-about {
+        font-size: 27px;
+        margin-bottom: 20px;
+        text-align: center!important;
+    }
+    /* homepage6 section End>>> */
+    /* ---------------------- */
+    /* homepage7 (reviews) section start >>> */
+    .hide-240-review {
+        visibility: visible;
+    }
+    .card-review {
+        width: 18rem!important;
+        margin-bottom: 30px!important;
+    }
+    /* homepage7 section End>>> */
+    /* ---------------------- */
+    /* homepage8 (footer) section start >>> */
+    .h4-footer {
+        font-size: 27px;
+    }
+    .bg-dark {
+        height: max-content;
+    }
+    .paragraph-footer {
+        font-size: 20px;
+    }
+    .footer-div {
+        margin-top: 40px!important;
+    }
+    .follow-footer {
+        font-size: 20px;
+    }
+    .follow-btn {
+        width: 47px;
+        margin: auto;
+        padding: 8.6px;
+    }
+    .copyright {
+        margin: auto;
+        padding: 15px;
+        font-size: 15.5px;
+        margin-top: 30px!important;
+    }
+}
+
+@media (min-width: 1800px) and (max-width: 1999.98px) {
+    .first-section {
+        margin-bottom: 230px;
+    }
+    /* homepage1 section start >>> */
+    /* navbar fixing */
+    #homepage1 {
+        height: fit-content;
+        margin-bottom: 350px;
+        margin-top: 100px;
+    }
+    .nav-text {
+        font-size: 28px;
+        margin-left: 6.5px;
+    }
+    .loop-video {
+        width: 900px;
+        height: 506.25px;
+        margin-bottom: 35px!important;
+    }
+    .title-capital {
+        font-size: 50px;
+    }
+    .text-name {
+        font-size: 44px;
+        letter-spacing: 4.5px;
+    }
+    .btn-hire {
+        font-size: 24px;
+        letter-spacing: 0.8px;
+        font-weight: 600;
+        padding-inline: 18.5px;
+        padding-block: 7.5px;
+    }
+    .text-paragraph {
+        font-size: 20px;
+    }
+    .logo-image {
+        width: 48px;
+    }
+    /* homepage1 section & navbar end >>> */
+    /* ------------------------ */
+    /* homepage2 section start >>> */
+    #video-title {
+        font-size: 38px;
+        margin-bottom: 50px;
+        letter-spacing: 2.7px;
+    }
+    .video-icon {
+        width: 49px;
+    }
+    .yt-demo {
+        width: 380px;
+        height: 213.75px;
+        margin-bottom: 40px;
+    }
+    #homepage2 {
+        height: min-content;
+        margin-bottom: 80px!important;
+    }
+    /* homepage2 section end >>> */
+    /* ---------------------- */
+    /* homepage3 section start >>> */
+    #web-title {
+        font-size: 35px;
+        letter-spacing: 2.8px;
+    }
+    .web-icon {
+        width: 48.5px;
+        letter-spacing: 0.7px;
+    }
+    .web-size {
+        width: 380px;
+        margin-bottom: 27px!important;
+    }
+    /* homepage3 section End>>> */
+    /* ---------------------- */
+    /* homepage4 section start >>> */
+    #graphics-title {
+        font-size: 35px;
+        letter-spacing: 2.6px;
+    }
+    #homepage4 {
+        height: 95vh;
+    }
+    /* homepage4 section End>>> */
+    /* ---------------------- */
+    /* homepage5 section start >>> */
+    .title-learning {
+        font-size: 39px;
+        margin-bottom: 50px;
+        letter-spacing: 2px!important;
+    }
+    .left-rightIcon {
+        width: 46px;
+    }
+    .learning-card {
+        width: 336px;
+        margin-bottom: 65px!important;
+    }
+    #description {
+        font-size: 17px;
+    }
+    .btn-read {
+        padding-inline: 10px;
+        border: 2px solid rgb(95, 95, 95);
+        padding-block: 5px;
+        font-size: 17.5px;
+    }
+    /* homepage5 section End>>> */
+    /* ---------------------- */
+    /* homepage6 section start >>> */
+    .face-icon {
+        width: 440px;
+    }
+    .row {
+        overflow: hidden!important;
+    }
+    .h2-about {
+        font-size: 39px;
+        letter-spacing: 5.9px;
+        font-family: 'Staatliches', cursive;
+    }
+    .h3-about {
+        font-size: 34px;
+    }
+    .paragraph-about {
+        font-size: 25px;
+    }
+    .circle-about {
+        width: 35px;
+        text-align: start!important;
+    }
+    .info-about {
+        font-size: 28px;
+        margin-bottom: 40px;
+        text-align: start!important;
+    }
+    /* homepage6 section End>>> */
+    /* ---------------------- */
+    /* homepage7 (reviews) section start >>> */
+    .hide-240-review {
+        visibility: visible;
+    }
+    .card-review {
+        width: 19rem!important;
+        margin-bottom: 30px!important;
+    }
+    /* homepage7 section End>>> */
+    /* ---------------------- */
+    /* homepage8 (footer) section start >>> */
+    .h4-footer {
+        font-size: 28px;
+    }
+    .bg-dark {
+        height: max-content;
+    }
+    .paragraph-footer {
+        font-size: 21px;
+    }
+    .footer-div {
+        margin-top: 42px!important;
+    }
+    .follow-footer {
+        font-size: 22px;
+    }
+    .follow-btn {
+        width: 50px;
+        margin: auto;
+        padding: 8.9px;
+    }
+    .copyright {
+        margin: auto;
+        padding: 15px;
+        font-size: 16px;
+        margin-top: 30px!important;
+    }
+}
